@@ -1,0 +1,76 @@
+QUESTÃO 119
+Uma lanterna funciona com três pilhas de resistência interna igual a 0,5 Ω cada, ligadas em série. Quando
+posicionadas corretamente, devem acender a lâmpada incandescente de especificações 4,5 W e 4,5 V. Cada pilha na
+posição correta gera uma f.e.m. (força eletromotriz) de 1,5 V. Uma pessoa, ao trocar as pilhas da lanterna, comete o
+equívoco de inverter a posição de uma das pilhas. Considere que as pilhas mantêm contato independentemente da
+posição.
+Com esse equívoco, qual é a intensidade de corrente que passa pela lâmpada ao se ligar a lanterna?
+A
+A 0,25 A
+B
+B 0,33 A
+C
+C 0,75 A
+D
+D 1,00 A
+E
+E 1,33 A
+QUESTÃO 120
+Em uma aula prática de bioquímica, para medir a atividade catalítica da enzima catalase, foram realizados seis
+ensaios independentes, nas mesmas condições, variando-se apenas a temperatura. A catalase decompõe o peróxido
+de hidrogênio (H2
+O2
+), produzindo água e oxigênio. Os resultados dos ensaios estão apresentados no quadro.
+Ensaio Temperatura (°C)
+Resultado
+Decomposição de H2
+O2
+10 12
+
+
+
+
+
+
+
+mol
+min
+1 10 8,0
+2 15 10,5
+3 20 9,5
+4 25 5,0
+5 30 3,6
+6 35 3,1
+Os diferentes resultados dos ensaios justificam-se pelo(a)
+A
+A variação do pH do meio.
+B
+B aumento da energia de ativação.
+C
+C consumo da enzima durante o ensaio.
+D
+D diminuição da concentração do substrato.
+E
+E modificação da estrutura tridimensional da enzima.
+QUESTÃO 121
+Antimicrobianos são substâncias naturais ou sintéticas que têm capacidade de matar ou inibir o crescimento de
+microrganismos. A tabela apresenta uma lista de antimicrobianos hipotéticos, bem como suas ações e efeitos sobre
+o metabolismo microbiano.
+Antimicrobiano Ação Efeito
+1 Une-se aos ribossomos Impede a síntese proteica
+2 Une-se aos microtúbulos Impede a segregação das cromátides
+3 Une-se aos fosfolipídeos da membrana plasmática Reduz a permeabilidade da membrana plasmática
+4 Interfere na síntese de timina Inibe a síntese de DNA
+5 Interfere na síntese de uracila Impede a síntese de RNA
+Qual dos antimicrobianos deve ser utilizado para curar uma infecção causada por um fungo sem afetar as bactérias
+da microbiota normal do organismo?
+A
+A 1
+B
+B 2
+C
+C 3
+D
+D 4
+E
+E 5

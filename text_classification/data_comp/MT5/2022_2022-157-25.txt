@@ -1,0 +1,45 @@
+O funcionário de uma loja tem seu salário mensal formado por uma parcela fixa de 675 reais mais uma comissão
+que depende da quantidade de peças vendidas por ele no mês. O cálculo do valor dessa comissão é feito de acordo
+com estes critérios:
+• até a quinquagésima peça vendida, paga-se 5 reais por peça;
+• a partir da quinquagésima primeira peça vendida, o valor pago é de 7 reais por peça.
+Represente por q a quantidade de peças vendidas no mês por esse funcionário, e por S(q) o seu salário mensal,
+em real, nesse mês.
+A expressão algébrica que descreve S(q) em função de q é
+A S(q) = 675 + 12q
+B S(q) = 325 + 12q
+C S(q) = 675 + 7q
+D S q
+q q
+q q
+( )
+,
+,
+
+
+ 
+625 5 50
+925 7 50
+se
+se
+
+
+
+
+E S q
+q q
+q q
+( )
+,
+,
+
+
+ 
+625 5 50
+575 7 50
+se
+se
+
+
+
+

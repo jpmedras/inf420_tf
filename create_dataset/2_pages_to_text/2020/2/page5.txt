@@ -1,0 +1,82 @@
+Questão 99
+Você foi contratado para sincronizar os quatro
+semáforos de uma avenida, indicados pelas letras O, A,
+B e C, conforme a figura.
+C
+B
+A
+O
+Os semáforos estão separados por uma distância
+de 500 m. Segundo os dados estatísticos da companhia
+controladora de trânsito, um veículo, que está
+inicialmente parado no semáforo O, tipicamente parte
+com aceleração constante de 1 m s−2
+até atingir a
+velocidade de 72 km h−1
+e, a partir daí, prossegue com
+velocidade constante. Você deve ajustar os semáforos
+A, B e C de modo que eles mudem para a cor verde
+quando o veículo estiver a 100 m de cruzá-los, para
+que ele não tenha que reduzir a velocidade em nenhum
+momento.
+Considerando essas condições, aproximadamente
+quanto tempo depois da abertura do semáforo O os
+semáforos A, B e C devem abrir, respectivamente?
+A 20 s, 45 s e 70 s.
+B 25 s, 50 s e 75 s.
+C 28 s, 42 s e 53 s.
+D 30 s, 55 s e 80 s.
+E 35 s, 60 s e 85 s.
+Questão 100
+Nos dias atuais, o amplo uso de objetos de plástico
+gera bastante lixo, que muitas vezes é eliminado pela
+população por meio da queima. Esse procedimento é
+prejudicial ao meio ambiente por lançar substâncias
+poluentes. Para constatar esse problema, um estudante
+analisou a decomposição térmica do policloreto de
+vinila (PVC), um tipo de plástico, cuja estrutura é
+representada na figura.
+Policloreto de vinila (PVC)
+Para realizar esse experimento, o estudante colocou
+uma amostra de filme de PVC em um tubo de ensaio e o
+aqueceu, promovendo a decomposição térmica. Houve a
+liberação majoritária de um gás diatômico heteronuclear
+que foi recolhido em um recipiente acoplado ao tubo
+de ensaio. Esse gás, quando borbulhado em solução
+alcalina diluída contendo indicador ácido-base, alterou a
+cor da solução. Além disso, em contato com uma solução
+aquosa de carbonato de sódio (Na2
+CO3
+), liberou gás
+carbônico.
+Qual foi o gás liberado majoritariamente na decomposição
+térmica desse tipo de plástico?
+A H2
+B Cl2
+C CO
+D CO2
+E HCl
+Questão 101
+Uma população (momento A) sofre isolamento
+em duas subpopulações (momento B) por um fator de
+isolamento (I). Passado um tempo, essas subpopulações
+apresentam características fenotípicas e genotípicas que
+as distinguem (momento C), representadas na figura
+pelas tonalidades de cor. O posterior desaparecimento
+do fator de isolamento I pode levar, no momento D, às
+situações D1 e D2.
+A
+B C D
+D1
+D2
+Tempo
+A representação indica que, no momento D, na situação
+A D1 ocorre um novo fator de isolamento geográfico.
+B D1 existe uma única população distribuída em
+gradiente.
+C D1 ocorrem duas populações separadas por
+isolamento reprodutivo.
+D D2 coexistem duas populações com características
+fenotípicas distintas.
+E D2 foram preservadas as mesmas características
+fenotípicas da população original A.

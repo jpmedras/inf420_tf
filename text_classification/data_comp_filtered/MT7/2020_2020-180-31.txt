@@ -1,0 +1,32 @@
+Com o objetivo de contratar uma empresa responsável
+pelo serviço de atendimento ao público, os executivos
+de uma agência bancária realizaram uma pesquisa de
+satisfação envolvendo cinco empresas especializadas
+nesse segmento. Os procedimentos analisados (com
+pesos que medem sua importância para a agência) e
+as respectivas notas que cada empresa recebeu estão
+organizados no quadro.
+Procedimento Peso
+Notas da empresa
+X Y Z W T
+Rapidez no
+atendimento
+3 5 1 4 3 4
+Clareza nas
+informações
+passadas aos
+clientes
+5 1 4 3 3 2
+Cortesia no
+atendimento
+2 2 2 2 3 4
+A agência bancária contratará a empresa com a maior
+média ponderada das notas obtidas nos procedimentos
+analisados.
+Após a análise dos resultados da pesquisa de satisfação,
+os executivos da agência bancária contrataram a empresa
+A X.
+B Y.
+C Z.
+D W.
+E T.

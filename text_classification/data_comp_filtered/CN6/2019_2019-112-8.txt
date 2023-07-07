@@ -1,0 +1,21 @@
+Os hidrocarbonetos são moléculas orgânicas com uma série de aplicações industriais. Por exemplo, eles estão
+presentes em grande quantidade nas diversas frações do petróleo e normalmente são separados por destilação
+fracionada, com base em suas temperaturas de ebulição. O quadro apresenta as principais frações obtidas na
+destilação do petróleo em diferentes faixas de temperaturas.
+Fração
+Faixa de
+temperatura (°C)
+Exemplos de produto(s)
+Número de átomos de carbono
+(hidrocarboneto de fórmula geral CnH2n+2)
+1 Até 20 Gás natural e gás de cozinha (GLP) C1 a C4
+2 30 a 180 Gasolina C6 a C12
+3 170 a 290 Querosene C11 a C16
+4 260 a 350 Óleo diesel C14 a C18
+SANTA MARIA, L. C. et al. Petróleo: um tema para o ensino de química. Química Nova na Escola, n. 15, maio 2002 (adaptado).
+Na fração 4, a separação dos compostos ocorre em temperaturas mais elevadas porque
+A suas densidades são maiores.
+B o número de ramificações é maior.
+C sua solubilidade no petróleo é maior.
+D as forças intermoleculares são mais intensas.
+E a cadeia carbônica é mais difícil de ser quebrada.

@@ -1,0 +1,108 @@
+Questão 157
+Amigo secreto é uma brincadeira tradicional nas festas
+de fim de ano. Um grupo de amigos se reúne e cada um
+deles sorteia o nome da pessoa que irá presentear. No dia
+da troca de presentes, uma primeira pessoa presenteia
+seu amigo secreto. Em seguida, o presenteado revela seu
+amigo secreto e o presenteia.Abrincadeira continua até que
+todos sejam presenteados, mesmo no caso em que o ciclo
+se fecha. Dez funcionários de uma empresa, entre eles um
+casal, participarão de um amigo secreto. A primeira pessoa
+a revelar será definida por sorteio.
+Qual é a probabilidade de que a primeira pessoa a revelar
+o seu amigo secreto e a última presenteada sejam as duas
+pessoas do casal?
+A
+1
+5
+B
+1
+45
+C
+1
+50
+D
+1
+90
+E
+1
+100
+Questão 158
+Três amigos, André, Bernardo e Carlos, moram em
+um condomínio fechado de uma cidade. O quadriculado
+representa a localização das ruas paralelas e
+perpendiculares, delimitando quadras de mesmo
+tamanho nesse condomínio, em que nos pontos A, B e C
+estão localizadas as casas de André, Bernardo e Carlos,
+respectivamente.
+A
+C
+B
+André deseja deslocar-se da sua casa até a casa
+de Bernardo, sem passar pela casa de Carlos, seguindo
+ao longo das ruas do condomínio, fazendo sempre
+deslocamentos para a direita ( → ) ou para cima ( ↑ ),
+segundo o esquema da figura.
+O número de diferentes caminhos que André poderá
+utilizar para realizar o deslocamento nas condições
+propostas é
+A 4.
+B 14.
+C 17.
+D 35.
+E 48.
+Questão 159
+Uma pessoa precisa comprar 15 sacos de cimento
+para uma reforma em sua casa. Faz pesquisa de preço em
+cinco depósitos que vendem o cimento de sua preferência
+e cobram frete para entrega do material, conforme a
+distância do depósito à sua casa. As informações sobre
+preço do cimento, valor do frete e distância do depósito
+até a casa dessa pessoa estão apresentadas no quadro.
+Depósito
+Valor do saco
+de cimento
+Valor do
+frete para cada
+quilômetro
+Distância entre
+a casa e o
+depósito
+(R$) (R$) (km)
+A 23,00 1,00 10
+B 21,50 3,00 12
+C 22,00 1,50 14
+D 21,00 3,50 18
+E 24,00 2,50 2
+A pessoa escolherá um desses depósitos para
+realizar sua compra, considerando os preços do cimento
+e do frete oferecidos em cada opção.
+Se a pessoa decidir pela opção mais econômica, o depósito
+escolhido para a realização dessa compra será o
+A A.
+B B.
+C C.
+D D.
+E E.
+Questão 160
+Um motociclista planeja realizar uma viagem cujo
+destino fica a 500 km de sua casa. Sua moto consome
+5 litros de gasolina para cada 100 km rodados, e o
+tanque da moto tem capacidade para 22 litros. Pelo
+mapa, observou que no trajeto da viagem o último posto
+disponível para reabastecimento, chamado Estrela, fica a
+80 km do seu destino. Ele pretende partir com o tanque
+da moto cheio e planeja fazer somente duas paradas para
+reabastecimento, uma na ida e outra na volta, ambas no
+posto Estrela. No reabastecimento para a viagem de ida,
+deve considerar também combustível suficiente para se
+deslocar por 200 km no seu destino.
+A quantidade mínima de combustível, em litro, que
+esse motociclista deve reabastecer no posto Estrela na
+viagem de ida, que seja suficiente para fazer o segundo
+reabastecimento, é
+A 13.
+B 14.
+C 17.
+D 18.
+E 21.

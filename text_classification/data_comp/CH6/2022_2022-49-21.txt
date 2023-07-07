@@ -1,0 +1,40 @@
+10% - 20% de superfície impermeável
+percolação
+profunda: 21%
+infiltração
+subsuperficial: 21%
+escoamento
+superficial: 20%
+evapotranspiração: 38%
+escoamento
+superficial: 30%
+infiltração
+subsuperficial: 20%
+percolação
+profunda: 15%
+evapotranspiração: 35%
+escoamento
+superficial: 55%
+infiltração
+subsuperficial: 10%
+percolação
+profunda: 5%
+75% - 100% de superfície impermeável
+evapotranspiração: 30%
+Cobertura natural do solo
+infiltração
+subsuperficial: 25%
+escoamento
+superficial:10%
+percolação
+profunda: 25%
+evapotranspiração: 40%
+35% - 50% de superfície impermeável
+PAZ, A. D. Disponível em: www.ct.ufpb.br. Acesso em: 15 out. 2021 (adaptado).
+A intensificação da ocupação urbana demonstrada afeta
+de forma imediata o(a)
+A nível altimétrico.
+B ciclo hidrológico.
+C padrão climático.
+D tectônica de placas.
+E estrutura das rochas.

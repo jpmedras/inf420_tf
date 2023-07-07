@@ -1,0 +1,26 @@
+O exame parasitológico de fezes é utilizado para
+detectar ovos de parasitos. Um dos métodos utilizados,
+denominado de centrífugo-flutuação, considera a
+densidade dos ovos em relação a uma solução de
+densidade 1,15 g mL−1
+. Assim, ovos que flutuam na
+superfície dessa solução são detectados. Os dados
+de densidade dos ovos de alguns parasitos estão
+apresentados na tabela.
+Parasito Densidade (g mL-1
+)
+Ancylostoma 1,06
+Ascaris lumbricoides 1,11
+Ascaris suum 1,13
+Schistosoma mansoni 1,18
+Taenia saginata 1,30
+ZERBINI, A. M. Identificação e análise de viabilidade de ovos de helmintos em um
+sistema de tratamento de esgotos domésticos constituídos de reatores anaeróbios e
+rampas de escoamento superficial. Belo Horizonte: Prosab, 2001 (adaptado).
+Considerando-se a densidade dos ovos e da solução, ovos
+de quais parasitos podem ser detectados por esse método?
+A A. lumbricoides, A. suum e S. mansoni.
+B S. mansoni, T. saginata e Ancylostoma.
+C Ancylostoma, A. lumbricoides e A. suum.
+D T. saginata, S. mansoni e A. lumbricoides.
+E A. lumbricoides, A. suum e T. saginata.

@@ -1,0 +1,61 @@
+Pesquisadores coletaram amostras de água de um
+rio em pontos diferentes, distantes alguns quilômetros
+um do outro. Ao longo do rio, há locais de águas limpas,
+como também locais que recebem descarga de esgoto
+de área urbana, e locais onde há decomposição ativa
+com ausência de peixes. Os pesquisadores analisaram
+dois parâmetros: oxigênio dissolvido (OD) e demanda
+bioquímica de oxigênio (DBO) em cada ponto de coleta
+de água, obtendo o gráfico:
+OD
+e
+DBO
+(mg
+L
+−1
+)
+ODBO
+OD ≥ 5 mg L−1
+e DBO ≤ 5 mg L−1
+.
+Legenda:
+∗
++
+Valores limites permitidos para águas doces destinadas ao abastecimento
+para o consumo humano após tratamento convencional, segundo Resolução
+Conama n. 357/2005:
+14
+12
+10
+4
+8
+6
+2
+1 2 3 4 5
+∗
+∗
+∗
+∗
+∗
++
++
++
++
++
+Pontos de amostragem
+O OD é proveniente da atmosfera e da fotossíntese
+que ocorre no curso-d’água e sua concentração é
+função das variáveis físicas, químicas e bioquímicas
+locais. A DBO é a quantidade de oxigênio consumido
+por microrganismos em condições aeróbicas para
+degradar uma determinada quantidade de matéria
+orgânica, durante um período de tempo, numa
+temperatura de incubação específica.
+Disponível em: www.programaaguaazul.rn.gov.br. Acesso em: 16 ago. 2014 (adaptado).
+Qual ponto de amostragem da água do rio está mais
+próximo ao local em que o rio recebe despejo de esgoto?
+A 1
+B 2
+C 3
+D 4
+E 5

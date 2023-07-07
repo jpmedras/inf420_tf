@@ -1,0 +1,68 @@
+Questão 113
+Nos desenhos animados, com frequência se vê um
+personagem correndo na direção de um abismo, mas, ao
+invés de cair, ele continua andando no vazio e só quando
+percebe que não há nada sob seus pés é que ele para
+de andar e cai verticalmente. No entanto, para observar
+uma trajetória de queda num experimento real, pode-se
+lançar uma bolinha, com velocidade constante (V0
+), sobre
+a superfície de uma mesa e verificar o seu movimento de
+queda até o chão.
+Qualfiguramelhorrepresentaatrajetóriadequedadabolinha?
+A
+Mesa
+Solo
+V0
+B
+Mesa
+Solo
+V0
+C
+Mesa
+Solo
+V0
+D
+Mesa
+Solo
+V0
+E
+Mesa
+Solo
+V0
+Questão 114
+Dois engenheiros estão verificando se uma cavidade
+perfurada no solo está de acordo com o planejamento
+de uma obra, cuja profundidade requerida é de 30 m.
+O teste é feito por um dispositivo denominado oscilador
+de áudio de frequência variável, que permite relacionar
+a profundidade com os valores da frequência de duas
+ressonâncias consecutivas, assim como em um tubo
+sonoro fechado. A menor frequência de ressonância que
+o aparelho mediu foi 135 Hz. Considere que a velocidade
+do som dentro da cavidade perfurada é de 360 m s-1
+.
+Se a profundidade estiver de acordo com o projeto, qual
+será o valor da próxima frequência de ressonância que
+será medida?
+A 137 Hz.
+B 138 Hz.
+C 141 Hz.
+D 144 Hz.
+E 159 Hz.
+Questão 115
+Instituições acadêmicas e de pesquisa no mundo estão
+inserindo genes em genomas de plantas que possam
+codificar produtos de interesse farmacológico. No Brasil,
+está sendo desenvolvida uma variedade de soja com um
+viricida ou microbicida capaz de prevenir a contaminação
+pelo vírus causador da aids. Essa leguminosa está sendo
+induzida a produzir a enzima cianovirina-N, que tem
+eficiência comprovada contra o vírus.
+OLIVEIRA, M. Remédio na planta. Pesquisa Fapesp, n. 206, abr. 2013.
+A técnica para gerar essa leguminosa é um exemplo de
+A hibridismo.
+B transgenia.
+C conjugação.
+D terapia gênica.
+E melhoramento genético.

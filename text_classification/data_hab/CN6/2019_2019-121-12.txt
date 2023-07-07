@@ -1,0 +1,37 @@
+Numa feira de ciências, um estudante utilizará o
+disco de Maxwell (ioiô) para demonstrar o princípio da
+conservação da energia. A apresentação consistirá em
+duas etapas:
+Etapa 1 - a explicação de que, à medida que o disco
+desce, parte de sua energia potencial gravitacional
+é transformada em energia cinética de translação e
+energia cinética de rotação;
+Etapa 2 - o cálculo da energia cinética de rotação do
+disco no ponto mais baixo de sua trajetória, supondo o
+sistema conservativo.
+Ao preparar a segunda etapa, ele considera a
+aceleração da gravidade igual a 10 m s−2 e a velocidade
+linear do centro de massa do disco desprezível em
+comparação com a velocidade angular. Em seguida,
+mede a altura do topo do disco em relação ao chão no
+ponto mais baixo de sua trajetória, obtendo 1
+3
+da altura
+da haste do brinquedo.
+As especificações de tamanho do brinquedo, isto é,
+de comprimento (C), largura (L) e altura (A), assim como
+da massa de seu disco de metal, foram encontradas
+pelo estudante no recorte de manual ilustrado a seguir.
+Conteúdo: base de metal, hastes metálicas,
+barra superior, disco de metal.
+Tamanho (C × L × A): 300 mm × 100 mm × 410 mm
+Massa do disco de metal: 30 g
+2h
+3
+h
+O resultado do cálculo da etapa 2, em joule, é:
+A 4,10 × 10−2
+B 8,20 × 10−2
+C 1,23 × 10−1
+D 8,20 × 104
+E 1,23 × 105

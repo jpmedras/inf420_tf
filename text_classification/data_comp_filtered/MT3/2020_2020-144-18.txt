@@ -1,0 +1,14 @@
+Uma torneira está gotejando água em um balde
+com capacidade de 18 litros. No instante atual, o
+balde se encontra com ocupação de 50% de sua
+capacidade. A cada segundo caem 5 gotas de água
+da torneira, e uma gota é formada, em média, por
+5 × 10−2
+mL de água.
+Quanto tempo, em hora, será necessário para encher
+completamente o balde, partindo do instante atual?
+A 2 × 101
+B 1 × 101
+C 2 × 10−2
+D 1 × 10−2
+E 1 × 10−3

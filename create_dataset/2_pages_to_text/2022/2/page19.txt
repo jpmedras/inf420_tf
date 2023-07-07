@@ -1,0 +1,213 @@
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+QUESTÃO 142
+Uma montadora de automóveis divulgou que oferta a
+seus clientes mais de 1 000 configurações diferentes de
+carro, variando o modelo, a motorização, os opcionais e
+a cor do veículo. Atualmente, ela oferece 7 modelos de
+carros com 2 tipos de motores: 1.0 e 1.6. Já em relação
+aos opcionais, existem 3 escolhas possíveis: central
+multimídia, rodas de liga leve e bancos de couro, podendo
+o cliente optar por incluir um, dois, três ou nenhum dos
+opcionais disponíveis.
+Para ser fiel à divulgação feita, a quantidade mínima
+de cores que a montadora deverá disponibilizar a seus
+clientes é
+A
+A 8.
+B
+B 9.
+C
+C 11.
+D
+D 18.
+E
+E 24.
+QUESTÃO 143
+Dentre as diversas planificações possíveis para o
+cubo, uma delas é a que se encontra apresentada na
+Figura 1.
+Figura 1
+Em um cubo, foram pintados, em três de suas faces,
+quadrados de cor cinza escura, que ocupam um quarto
+dessas faces, tendo esses três quadrados um vértice em
+comum, conforme ilustrado na Figura 2.
+Figura 2
+A planificação do cubo da Figura 2, conforme o tipo de
+planificação apresentada na Figura 1, é
+A
+A
+B
+B
+C
+C
+D
+D
+E
+E
+QUESTÃO 144
+Cada número que identifica uma agência bancária tem
+quatro dígitos: N1
+, N2
+, N3
+, N4
+mais um dígito verificador N5
+.
+N1
+N2
+N3
+N4
+N5
+Todos esses dígitos são números naturais
+pertencentes ao conjunto {0, 1, 2, 3, 4, 5, 6, 7, 8, 9}.
+Para a determinação de N5
+, primeiramente multiplica-se
+ordenadamente os quatro primeiros dígitos do número
+da agência por 5, 4, 3 e 2, respectivamente, somam-se
+os resultados e obtém-se S = 5 N1
++ 4 N2
++ 3 N3
++ 2 N4
+.
+Posteriormente, encontra-se o resto da divisão de
+S por 11, denotando por R esse resto. Dessa forma, N5
+é
+a diferença 11 − R.
+Considere o número de uma agência bancária cujos
+quatro primeiros dígitos são 0100.
+Qual é o dígito verificador N5
+dessa agência bancária?
+A
+A 0
+B
+B 6
+C
+C 7
+D
+D 8
+E
+E 9

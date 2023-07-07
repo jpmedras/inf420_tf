@@ -1,0 +1,99 @@
+Questão 159
+O dono de um restaurante situado às margens de
+uma rodovia percebeu que, ao colocar uma placa de
+propaganda de seu restaurante ao longo da rodovia, as
+vendas aumentaram. Pesquisou junto aos seus clientes
+e concluiu que a probabilidade de um motorista perceber
+uma placa de anúncio é 1
+2
+. Com isso, após autorização
+do órgão competente, decidiu instalar novas placas com
+anúncios de seu restaurante ao longo dessa rodovia, de
+maneira que a probabilidade de um motorista perceber
+pelo menos uma das placas instaladas fosse superior
+a
+99
+100
+.
+A quantidade mínima de novas placas de propaganda a
+serem instaladas é
+A 99.
+B 51.
+C 50.
+D 6.
+E 1.
+Questão 160
+O preparador físico de um time de basquete dispõe
+de um plantel de 20 jogadores, com média de altura
+igual a 1,80 m. No último treino antes da estreia em
+um campeonato, um dos jogadores desfalcou o time
+em razão de uma séria contusão, forçando o técnico a
+contratar outro jogador para recompor o grupo.
+Se o novo jogador é 0,20 m mais baixo que o anterior,
+qual é a média de altura, em metro, do novo grupo?
+A 1,60
+B 1,78
+C 1,79
+D 1,81
+E 1,82
+Questão 161
+Em uma fábrica de refrigerantes, é necessário
+que se faça periodicamente o controle no processo
+de engarrafamento para evitar que sejam envasadas
+garrafas fora da especificação do volume escrito no rótulo.
+Diariamente, durante 60 dias, foram anotadas as
+quantidades de garrafas fora dessas especificações.
+O resultado está apresentado no quadro.
+Quantidade de garrafas fora das
+especificações por dia
+Quantidade
+de dias
+0 52
+1 5
+2 2
+3 1
+A média diária de garrafas fora das especificações no
+período considerado é
+A 0,1.
+B 0,2.
+C 1,5.
+D 2,0.
+E 3,0.
+Questão 162
+O Sistema Métrico Decimal é o mais utilizado
+atualmente para medir comprimentos e distâncias.
+Em algumas atividades, porém, é possível observar
+a utilização de diferentes unidades de medida.
+Um exemplo disso pode ser observado no quadro.
+Unidade Equivalência
+Polegada 2,54 centímetros
+Jarda 3 pés
+Jarda 0,9144 metro
+Assim, um pé, em polegada, equivale a
+A 0,1200.
+B 0,3048.
+C 1,0800.
+D 12,0000.
+E 36,0000.
+Questão 163
+O Índice de Desenvolvimento Humano (IDH) é uma
+medida usada para classificar os países pelo seu grau
+de desenvolvimento. Para seu cálculo, são levados em
+consideração a expectativa de vida ao nascer, tempo de
+escolaridade e renda per capita, entre outros. O menor
+valor deste índice é zero e o maior é um. Cinco países
+foram avaliados e obtiveram os seguintes índices de
+desenvolvimento humano: o primeiro país recebeu um
+valor X , o segundo X , o terceiro X
+1
+3, o quarto X2
+e o
+último X3
+. Nenhum desses países zerou ou atingiu o
+índice máximo.
+Qual desses países obteve o maior IDH?
+A O primeiro.
+B O segundo.
+C O terceiro.
+D O quarto.
+E O quinto.

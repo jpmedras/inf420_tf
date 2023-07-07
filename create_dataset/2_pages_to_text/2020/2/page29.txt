@@ -1,0 +1,118 @@
+Questão 175
+Um administrador resolve estudar o lucro de sua empresa e, para isso, traça o gráfico da receita e do custo de
+produção de seus itens, em real, em função da quantidade de itens produzidos.
+Receita
+Custo
+Quantidade de
+itens produzidos
+R$
+5
+10
+15
+20
+25
+30
+35
+40
+45
+50
+55
+5 10 15 20 25 30
+0
+O lucro é determinado pela diferença: Receita – Custo.
+O gráfico que representa o lucro dessa empresa, em função da quantidade de itens produzidos, é
+A
+R$
+5
+−5
+−10
+−15
+−20
+10
+15
+20
+25
+30
+35
+40
+5 10 20 25 30
+0
+Quantidade de
+itens produzidos
+15
+D
+R$
+5
+−5
+10
+15
+20
+25
+30
+35
+40
+45
+50
+55
+5 10 20 25 30
+0
+Quantidade de
+itens produzidos
+15
+B
+R$
+5
+−5
+−10
+−15
+−20
+−25
+−30
+−35
+−40
+10
+15
+20
+5 10 20 25 30
+0
+Quantidade de
+itens produzidos
+15
+E
+R$
+5
+−5
+10
+15
+20
+25
+30
+35
+40
+45
+50
+55
+5 10 20 25 30
+0
+Quantidade de
+itens produzidos
+15
+C
+R$
+5
+−5
+10
+15
+20
+25
+30
+35
+40
+45
+50
+55
+5 10 20 25 30
+0
+Quantidade de
+itens produzidos
+15

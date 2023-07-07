@@ -1,0 +1,56 @@
+A lei municipal para a edificação de casas em lotes
+de uma cidade determina que sejam obedecidos os
+seguintes critérios:
+• afastamento mínimo de 4 m da rua;
+• afastamento mínimo de 1 m da divisa com outro lote;
+• área total construída da casa entre 40% e 50% da
+área total do lote.
+Um construtor submeteu para aprovação na
+prefeitura dessa cidade uma planta com propostas para a
+construção de casas em seus 5 lotes. Cada lote tem área
+medindo 200 m².
+A imagem apresenta um esquema, sem escala,
+no qual estão representados os lotes, as ruas e os
+afastamentos considerados nos projetos entre as
+casas e as divisas dos lotes. As medidas indicadas no
+esquema estão expressas em metro.
+1
+Rua
+Casa 3
+Casa 5
+Casa 4
+Lote
+Lote
+Casa 1 Casa 2 Lote
+Lote
+10
+4
+1 1
+10
+10
+10
+4
+4 4
+2
+2
+1
+1
+4
+1
+1
+2
+2
+20
+20
+20
+Rua
+4
+4
+1
+1
+A prefeitura aprovará apenas a planta da casa
+A 1.
+B 2.
+C 3.
+D 4.
+E 5.

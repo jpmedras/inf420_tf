@@ -1,0 +1,28 @@
+Uma empresa de engenharia projetou uma casa com
+a forma de um retângulo para um de seus clientes. Esse
+cliente solicitou a inclusão de uma varanda em forma
+de L. A figura apresenta a planta baixa desenhada pela
+empresa, já com a varanda incluída, cujas medidas,
+indicadas em centímetro, representam os valores das
+dimensões da varanda na escala de 1 : 50.
+16 cm
+ESCALA 1 : 50
+SALA
+QUARTO
+SUÍTE
+BANHO
+SOCIAL
+BANHO
+SUÍTE
+COZINHA
+VARANDA
+QUARTO
+4 cm
+18,4 cm
+5 cm
+A medida real da área da varanda, em metro quadrado, é
+A 33,40.
+B 66,80.
+C 89,24.
+D 133,60.
+E 534,40.

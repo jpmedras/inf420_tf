@@ -1,0 +1,79 @@
+Questão 105
+Os manuais de refrigerador apresentam a
+recomendação de que o equipamento não deve ser
+instalado próximo a fontes de calor, como fogão e
+aquecedores, ou em local onde incida diretamente a
+luz do sol. A instalação em local inadequado prejudica
+o funcionamento do refrigerador e aumenta o consumo
+de energia.
+O não atendimento dessa recomendação resulta em
+aumento do consumo de energia porque
+A o fluxo de calor por condução no condensador sofre
+considerável redução.
+B a temperatura da substância refrigerante no
+condensador diminui mais rapidamente.
+C o fluxo de calor promove significativa elevação da
+temperatura no interior do refrigerador.
+D a liquefação da substância refrigerante no
+condensador exige mais trabalho do compressor.
+E as correntes de convecção nas proximidades do
+condensador ocorrem com maior dificuldade.
+Questão 106
+Um mergulhador fica preso ao explorar uma caverna
+no oceano. Dentro da caverna formou-se um bolsão de
+ar, como mostrado na figura, onde o mergulhador se
+abrigou.
+Durante o resgate, para evitar danos a seu
+organismo, foi necessário que o mergulhador passasse
+por um processo de descompressão antes de retornar
+à superfície para que seu corpo ficasse novamente sob
+pressão atmosférica. O gráfico mostra a relação entre
+os tempos de descompressão recomendados para
+indivíduos nessa situação e a variação de pressão.
+Tempo
+de
+descompressão
+(min)
+Variação de pressão (kPa)
+100
+80
+60
+40
+20
+100 200 300 400 500 600 700
+Considere que a aceleração da gravidade seja
+igual a 10 m s−2
+e que a densidade da água seja de
+ρ = 1 000 kg m−3
+.
+Em minutos, qual é o tempo de descompressão a que o
+mergulhador deverá ser submetido?
+A 100
+B 80
+C 60
+D 40
+E 20
+Questão 107
+A Torre Eiﬀel, com seus 324 metros de altura, feita
+com treliças de ferro, pesava 7 300 toneladas quando
+terminou de ser construída em 1889. Um arquiteto
+resolve construir um protótipo dessa torre em escala
+1:100, usando os mesmos materiais (cada dimensão
+linear em escala de 1:100 do monumento real).
+Considere que a torre real tenha uma massa Mtorre
+e exerça na fundação sobre a qual foi erguida uma
+pressão Ptorre
+. O modelo construído pelo arquiteto terá
+uma massa Mmodelo
+e exercerá uma pressão Pmodelo
+.
+Como a pressão exercida pela torre se compara com a
+pressão exercida pelo protótipo? Ou seja, qual é a razão
+entre as pressões (Ptorre
+)/(Pmodelo
+) ?
+A 100
+B 101
+C 102
+D 104
+E 106

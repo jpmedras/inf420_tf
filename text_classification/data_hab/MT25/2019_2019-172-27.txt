@@ -1,0 +1,28 @@
+O gráfico a seguir mostra a evolução mensal das
+vendas de certo produto de julho a novembro de 2011.
+Sabe-se que o mês de julho foi o pior momento da
+empresa em 2011 e que o número de unidades vendidas
+desse produto em dezembro de 2011 foi igual à média
+aritmética do número de unidades vendidas nos meses
+de julho a novembro do mesmo ano.
+O gerente de vendas disse, em uma reunião da
+diretoria, que, se essa redução no número de unidades
+vendidas de novembro para dezembro de 2011 se
+mantivesse constante nos meses subsequentes, as
+vendas só voltariam a ficar piores que julho de 2011
+apenas no final de 2012.
+O diretor financeiro rebateu imediatamente esse
+argumento mostrando que, mantida a tendência,
+isso aconteceria já em
+A janeiro.
+B fevereiro.
+C março.
+D abril.
+E maio.
+Unidades
+vendidas
+2 800
+2 700
+2 500
+700
+Jul Ago Set Out Nov Mês

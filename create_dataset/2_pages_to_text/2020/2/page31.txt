@@ -1,0 +1,89 @@
+Questão 177
+A Figura 1 apresenta uma casa e a planta do seu
+telhado, em que as setas indicam o sentido do escoamento
+da água de chuva. Um pedreiro precisa fazer a planta do
+escoamento da água de chuva de um telhado que tem
+três caídas de água, como apresentado na Figura 2.
+(a) Casa (b) Planta do telhado
+Figura 1 Figura 2
+A figura que representa a planta do telhado da Figura 2 com
+o escoamento da água de chuva que o pedreiro precisa
+fazer é
+A D
+B E
+C
+Questão 178
+Suponha que uma equipe de corrida de automóveis
+disponha de cinco tipos de pneu (I, II, III, IV, V), em que
+o fator de eficiência climática EC (índice que fornece o
+comportamento do pneu em uso, dependendo do clima)
+é apresentado:
+• EC do pneu I: com chuva 6, sem chuva 3;
+• EC do pneu II: com chuva 7, sem chuva −4;
+• EC do pneu III: com chuva −2, sem chuva 10;
+• EC do pneu IV: com chuva 2, sem chuva 8;
+• EC do pneu V: com chuva −6, sem chuva 7.
+O coeficiente de rendimento climático (CRC) de um
+pneu é calculado como a soma dos produtos dos fatores
+de EC, com ou sem chuva, pelas correspondentes
+probabilidades de se ter tais condições climáticas:
+ele é utilizado para determinar qual pneu deve ser
+selecionado para uma dada corrida, escolhendo-se o
+pneu que apresentar o maior CRC naquele dia. No dia
+de certa corrida, a probabilidade de chover era de 70%
+e o chefe da equipe calculou o CRC de cada um dos
+cinco tipos de pneu.
+O pneu escolhido foi
+A I.
+B II.
+C III.
+D IV.
+E V.
+Questão 179
+Um pé de eucalipto em idade adequada para o corte
+rende, em média, 20 mil folhas de papel A4. A densidade
+superficial do papel A4, medida pela razão da massa de
+uma folha desse papel por sua área, é de 75 gramas por
+metro quadrado, e a área de uma folha de A4 é 0,062
+metro quadrado.
+Disponível em: http://revistagalileu.globo.com. Acesso em: 28 fev. 2013 (adaptado).
+Nessas condições, quantos quilogramas de papel rende,
+em média, um pé de eucalipto?
+A 4 301
+B 1 500
+C 930
+D 267
+E 93
+Questão 180
+Com o objetivo de contratar uma empresa responsável
+pelo serviço de atendimento ao público, os executivos
+de uma agência bancária realizaram uma pesquisa de
+satisfação envolvendo cinco empresas especializadas
+nesse segmento. Os procedimentos analisados (com
+pesos que medem sua importância para a agência) e
+as respectivas notas que cada empresa recebeu estão
+organizados no quadro.
+Procedimento Peso
+Notas da empresa
+X Y Z W T
+Rapidez no
+atendimento
+3 5 1 4 3 4
+Clareza nas
+informações
+passadas aos
+clientes
+5 1 4 3 3 2
+Cortesia no
+atendimento
+2 2 2 2 3 4
+A agência bancária contratará a empresa com a maior
+média ponderada das notas obtidas nos procedimentos
+analisados.
+Após a análise dos resultados da pesquisa de satisfação,
+os executivos da agência bancária contrataram a empresa
+A X.
+B Y.
+C Z.
+D W.
+E T.

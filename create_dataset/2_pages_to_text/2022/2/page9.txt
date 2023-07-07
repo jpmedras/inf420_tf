@@ -1,0 +1,236 @@
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+QUESTÃO 109
+Oelementoiodo(I)temfunçãobiológicaeéacumulado
+na tireoide. Nos acidentes nucleares de Chernobyl e
+Fukushima, ocorreu a liberação para a atmosfera do
+radioisótopo 131
+I, responsável por enfermidades nas
+pessoas que foram expostas a ele. O decaimento de uma
+massa de 12 microgramas do isótopo 131
+I foi monitorado
+por 14 dias, conforme o quadro.
+Tempo (dia) Massa residual de 131
+I (µg)
+0 12,0
+2 10,1
+4 8,5
+5 7,8
+6 7,2
+8 6,0
+14 3,6
+Após o período de 40 dias, a massa residual desse
+isótopo é mais próxima de
+A
+A 2,4 µg.
+B
+B 1,5 µg.
+C
+C 0,8 µg.
+D
+D 0,4 µg.
+E
+E 0,2 µg.
+QUESTÃO 110
+Desde a proposição da teoria de seleção natural
+por Darwin, os seres vivos nunca mais foram olhados
+da mesma forma. No que diz respeito à reprodução de
+anfíbios anuros, os cientistas já descreveram diferentes
+padrões reprodutivos, como os exemplificados a seguir:
+Espécie 1 – As fêmeas produzem cerca de
+5 000 gametas, que são fecundados na água, em
+lagoas temporárias de estação chuvosa. Todo o
+desenvolvimento embrionário, do ovo à metamorfose,
+ocorre, nesse ambiente, independente dos pais.
+Espécie 2 – As fêmeas produzem aproximadamente
+200 gametas, que são depositados em poças próximas a
+corpos-d’água. Os embriões são vigiados pelos machos
+durante boa parte do seu desenvolvimento.
+Espécie 3 – As fêmeas produzem por volta de
+20 gametas, que são fecundados sobre a superfície das
+folhas de plantas cujos galhos estão dispostos acima da
+superfície de corpos-d’água e aí se desenvolvem até
+a eclosão.
+Espécie 4 – As fêmeas produzem poucos gametas
+que, quando fecundados, são “abocanhados” pelos
+machos. Os embriões se desenvolvem no interior do
+saco vocal do macho até a metamorfose, quando saem
+através da boca do pai.
+Os padrões descritos evidenciam que
+A
+A as fêmeas influenciam o comportamento dos machos.
+B
+B o cuidado parental é necessário para o desenvolvimento.
+C
+C o grau de evolução determina o comportamento
+reprodutivo.
+D
+D o sucesso reprodutivo pode ser garantido por
+estratégias diferentes.
+E
+E o ambiente induz modificação na produção do número
+de gametas femininos.
+QUESTÃO 111
+O eixo de rotação da Terra apresenta uma inclinação
+em relação ao plano de sua órbita em torno do Sol,
+interferindo na duração do dia e da noite ao longo do ano.
+Incidência direta
+ao meio-dia
+Polo Norte
+Trópico de
+Câncer
+Equador
+Trópico de
+Capricórnio
+Círculo Polar
+Antártico
+Polo Sul
+Círculo Polar
+Ártico
+Terra em 21 de dezembro
+DIA NOITE
+Uma pessoa instala em sua residência uma placa
+fotovoltaica, que transforma energia solar em elétrica.
+Ela monitora a energia total produzida por essa placa
+em 4 dias do ano, ensolarados e sem nuvens, e lança os
+resultados no gráfico.
+Energia
+Dia
+10/01 10/04 10/07 10/10
+Disponível em: www.fisica.ufpr.br. Acesso em: 27 maio 2022 (adaptado).
+Próximo a que região se situa a residência onde as placas
+foram instaladas?
+A
+A Trópico de Capricórnio.
+B
+B Trópico de Câncer.
+C
+C Polo Norte.
+D
+D Polo Sul.
+E
+E Equador.

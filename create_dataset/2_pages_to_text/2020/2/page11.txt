@@ -1,0 +1,159 @@
+Questão 119
+Pesquisadores coletaram amostras de água de um
+rio em pontos diferentes, distantes alguns quilômetros
+um do outro. Ao longo do rio, há locais de águas limpas,
+como também locais que recebem descarga de esgoto
+de área urbana, e locais onde há decomposição ativa
+com ausência de peixes. Os pesquisadores analisaram
+dois parâmetros: oxigênio dissolvido (OD) e demanda
+bioquímica de oxigênio (DBO) em cada ponto de coleta
+de água, obtendo o gráfico:
+OD
+e
+DBO
+(mg
+L
+−1
+)
+OD
+DBO
+OD ≥ 5 mg L−1
+e DBO ≤ 5 mg L−1
+.
+Legenda:
+∗
++
+Valores limites permitidos para águas doces destinadas ao abastecimento
+para o consumo humano após tratamento convencional, segundo Resolução
+Conama n. 357/2005:
+14
+12
+10
+4
+8
+6
+2
+1 2 3 4 5
+∗
+∗
+∗
+∗
+∗
++
++
++
++
++
+Pontos de amostragem
+O OD é proveniente da atmosfera e da fotossíntese
+que ocorre no curso-d’água e sua concentração é
+função das variáveis físicas, químicas e bioquímicas
+locais. A DBO é a quantidade de oxigênio consumido
+por microrganismos em condições aeróbicas para
+degradar uma determinada quantidade de matéria
+orgânica, durante um período de tempo, numa
+temperatura de incubação específica.
+Disponível em: www.programaaguaazul.rn.gov.br. Acesso em: 16 ago. 2014 (adaptado).
+Qual ponto de amostragem da água do rio está mais
+próximo ao local em que o rio recebe despejo de esgoto?
+A 1
+B 2
+C 3
+D 4
+E 5
+Questão 120
+O crescimento da frota de veículos em circulação
+no mundo tem levado à busca e desenvolvimento
+de tecnologias que permitam minimizar emissões de
+poluentes atmosféricos. O uso de veículos elétricos é
+uma das propostas mais propagandeadas por serem de
+emissão zero. Podemos comparar a emissão de carbono
+na forma de CO2
+(massa molar igual a 44 g mol−1
+) para os
+dois tipos de carros (a combustão e elétrico). Considere
+que os veículos tradicionais a combustão, movidos a
+etanol (massa molar igual a 46 g mol−1
+), emitem uma
+média de 2,6 mol de CO2
+por quilômetro rodado, e os
+elétricos emitem o equivalente a 0,45 mol de CO2
+por
+quilômetro rodado (considerando as emissões na geração
+e transmissão da eletricidade). A reação de combustão
+do etanol pode ser representada pela equação química:
+C2
+H5
+OH (l) + 3 O2
+(g) → 2 CO2
+(g) + 3 H2
+O (g)
+Foram analisadas as emissões de CO2
+envolvidas
+em dois veículos, um movido a etanol e outro elétrico,
+em um mesmo trajeto de 1 000 km.
+CHIARADIA, C. A. Estudo da viabilidade da implantação de frotas de veículos elétricos
+e híbridos elétricos no atual cenário econômico, político, energético e ambiental brasileiro.
+Guaratinguetá: Unesp, 2015 (adaptado).
+A quantidade equivalente de etanol economizada, em
+quilograma, com o uso do veículo elétrico nesse trajeto,
+é mais próxima de
+A 50.
+B 60.
+C 95.
+D 99.
+E 120.
+Questão 121
+Em uma aula sobre metabolismo energético,
+foi apresentado um experimento clássico realizado
+por Engelmann. Um recipiente contendo bactérias
+aeróbias e uma alga verde filamentosa foi submetido
+à iluminação de uma fonte de luz, representada
+pelo microespectro. Após a explicação, um aluno
+esquematizou na lousa o resultado do referido
+experimento.
+Bactérias aeróbias
+Filamento de alga verde
+Microespectro
+V
+e
+r
+m
+e
+l
+h
+o
+A
+m
+a
+r
+e
+l
+o
+V
+e
+r
+d
+e
+A
+z
+u
+l
+A
+n
+i
+l
+V
+i
+o
+l
+e
+t
+a
+Considerando a figura, a faixa do microespectro em que a
+alga possui maior taxa de realização fotossintética é a do:
+A Anil.
+B Verde.
+C Violeta.
+D Amarelo.
+E Vermelho.

@@ -1,0 +1,231 @@
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+QUESTÃO 168
+Uma pessoa precisa se deslocar de automóvel do
+ponto P para o ponto Q, indicados na figura, na qual as
+linhas verticais e horizontais simbolizam ruas.
+P
+Q
+Por causa do sentido de tráfego nessas ruas, o
+caminho poligonal destacado é a possibilidade mais
+curta de efetuar esse deslocamento. Para descrevê-lo,
+deve-se especificar qual o sentido a ser tomado em cada
+cruzamento de ruas, em relação à direção de deslocamento
+do automóvel, que se movimentará continuamente.
+Para isso, empregam-se as letras E, F e D para indicar
+“vire à esquerda”, “siga em frente” e “vire à direita”,
+respectivamente.
+A sequência de letras que descreve o caminho poligonal
+destacado é
+A
+A DDEFDDEEFFD.
+B
+B DFEFDDDEFFD.
+C
+C DFEFDDEEFFD.
+D
+D EFDFEEDDFFE.
+E
+E EFDFEEEDFFE.
+QUESTÃO 169
+Uma loja comercializa cinco modelos de
+caixas-d’água (I, II, III, IV e V), todos em formato
+de cilindro reto de base circular. Os modelos II, III, IV e V
+têm as especificações de suas dimensões dadas em
+relação às dimensões do modelo I, cuja profundidade é P
+e área da base é Ab
+, como segue:
+• modelo II: o dobro da profundidade e a metade da
+área da base do modelo I;
+• modelo III: o dobro da profundidade e a metade do
+raio da base do modelo I;
+• modelo IV: a metade da profundidade e o dobro da
+área da base do modelo I;
+• modelo V: a metade da profundidade e o dobro do
+raio da base do modelo I.
+Uma pessoa pretende comprar nessa loja o modelo
+de caixa-d’água que ofereça a maior capacidade
+volumétrica.
+O modelo escolhido deve ser o
+A
+A I.
+B
+B II.
+C
+C III.
+D
+D IV.
+E
+E V.
+QUESTÃO 170
+No período de 2005 a 2013, o valor de venda dos
+imóveis em uma cidade apresentou alta, o que resultou
+no aumento dos aluguéis. Os gráficos apresentam a
+evolução desses valores, para um mesmo imóvel, no
+mercado imobiliário dessa cidade.
+630
+960
+1 350
+1 800
+3 240
+Valor
+mensal
+do
+aluguel
+(R$)
+2005 2007 2009 2011 2013
+Ano
+90
+120
+270
+450
+540
+Valor
+de
+mercado
+do
+imóvel
+(milhar
+de
+R$)
+2005 2007 2009 2011 2013
+Ano
+A rentabilidade do aluguel de um imóvel é calculada
+pela razão entre o valor mensal de aluguel e o valor de
+mercado desse imóvel.
+Com base nos dados fornecidos, em que ano a
+rentabilidade do aluguel foi maior?
+A
+A 2005
+B
+B 2007
+C
+C 2009
+D
+D 2011
+E
+E 2013

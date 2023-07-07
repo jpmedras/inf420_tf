@@ -1,0 +1,34 @@
+Grupos de pesquisa em todo o mundo vêm buscando
+soluções inovadoras, visando a produção de dispositivos
+para a geração de energia elétrica. Dentre eles,
+pode-se destacar as baterias de zinco-ar, que combinam
+o oxigênio atmosférico e o metal zinco em um eletrólito
+aquoso de caráter alcalino. O esquema de funcionamento
+da bateria zinco-ar está apresentado na figura.
+Membrana
+separadora
+Eletro
+do
+poros
+o
+Ele
+tro
+do
+de
+zin
+co
+Zn(OH)4
+2−
+OH−
+O2
+LI, Y.; DAI, H. Recent Advances in Zinc–Air Batteries.
+Chemical Society Reviews, v. 43, n. 15, 2014 (adaptado).
+No funcionamento da bateria, a espécie química formada
+no ânodo é
+A H2 (g).
+B O2 (g).
+C H2O (l).
+D OH− (aq).
+E Zn(OH)4
+2− (aq).
+I II III IV V

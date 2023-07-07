@@ -1,0 +1,32 @@
+Em 1808, Dalton publicou o seu famoso livro
+intitulado Um novo sistema de filosofia química
+(do original A New System of Chemical Philosophy),
+no qual continha os cinco postulados que serviam
+como alicerce da primeira teoria atômica da matéria
+fundamentada no método científico. Esses postulados
+são numerados a seguir:
+1. A matéria é constituída de átomos indivisíveis.
+2. Todos os átomos de um dado elemento químico são
+idênticos em massa e em todas as outras propriedades.
+3. Diferentes elementos químicos têm diferentes
+tipos de átomos; em particular, seus átomos têm
+diferentes massas.
+4. Os átomos são indestrutíveis e nas reações
+químicas mantêm suas identidades.
+5. Átomos de elementos combinam com átomos de
+outros elementos em proporções de números inteiros
+pequenos para formar compostos.
+Após o modelo de Dalton, outros modelos baseados
+em outros dados experimentais evidenciaram, entre
+outras coisas, a natureza elétrica da matéria, a
+composição e organização do átomo e a quantização da
+energia no modelo atômico.
+OXTOBY, D. W.; GILLIS, H. P.; BUTLER, L. J. Principles of Modern
+Chemistry. Boston: Cengage Learning, 2012 (adaptado).
+Com base no modelo atual que descreve o átomo, qual
+dos postulados de Dalton ainda é considerado correto?
+A 1
+B 2
+C 3
+D 4
+E 5

@@ -1,0 +1,57 @@
+Questão 173
+Em um determinado ano, os computadores da receita federal de um país identificaram como inconsistentes
+20% das declarações de imposto de renda que lhe foram encaminhadas. Uma declaração é classificada como
+inconsistente quando apresenta algum tipo de erro ou conflito nas informações prestadas. Essas declarações
+consideradas inconsistentes foram analisadas pelos auditores, que constataram que 25% delas eram fraudulentas.
+Constatou-se ainda que, dentre as declarações que não apresentaram inconsistências, 6,25% eram fraudulentas.
+Qual é a probabilidade de, nesse ano, a declaração de um contribuinte ser considerada inconsistente, dado que
+ela era fraudulenta?
+A 0,0500
+B 0,1000
+C 0,1125
+D 0,3125
+E 0,5000
+Questão 174
+A taxa de urbanização de um município é dada pela razão entre a população urbana e a população total do
+município (isto é, a soma das populações rural e urbana). Os gráficos apresentam, respectivamente, a população
+urbana e a população rural de cinco municípios (I, II, III, IV, V) de uma mesma região estadual. Em reunião
+entre o governo do estado e os prefeitos desses municípios, ficou acordado que o município com maior taxa de
+urbanização receberá um investimento extra em infraestrutura.
+14 000
+12 000
+10 000
+8 000
+6 000
+4 000
+2 000
+8 000
+10 000
+12 000
+I II III IV V
+0
+População rural
+4 000
+5 000
+Segundo o acordo, qual município receberá o investimento extra?
+A I
+B II
+C III
+D IV
+E V
+14 000
+12 000
+10 000
+8 000
+6 000
+4 000
+2 000
+0
+16 000
+18 000
+20 000
+População urbana
+8 000
+10 000
+11 000
+18 000 17 000
+I II III IV V

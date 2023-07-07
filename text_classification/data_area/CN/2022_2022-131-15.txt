@@ -1,0 +1,48 @@
+De modo geral, a palavra “aromático” invoca associações agradáveis, como cheiro de café fresco ou de um pão doce de
+canela.Associaçõessimilaresocorriamnopassadodahistóriadaquímicaorgânica,quandooscompostosditos“aromáticos”
+apresentavam um odor agradável e foram isolados de óleos naturais. À medida que as estruturas desses compostos eram
+elucidadas, foi se descobrindo que vários deles continham uma unidade estrutural específica. Os compostos aromáticos
+que continham essa unidade estrutural tornaram-se parte de uma grande família, muito mais com base em suas estruturas
+eletrônicas do que nos seus cheiros, como as substâncias a seguir, encontradas em óleos vegetais.
+H
+O
+O
+CH3
+O
+OH
+CH3
+O
+C
+H3
+H
+O
+OH
+O
+CH3
+CH2
+O
+H
+O
+C
+H3
+H
+O
+Benzaldeído
+(no óleo de amêndoas)
+Salicilato de metila
+(no óleo de gaultéria)
+Anetol
+(no óleo de anis)
+Vanilina
+(no óleo de baunilha)
+Eugenol
+(no óleo de cravos)
+Cinamaldeído
+(no óleo de canela)
+SOLOMONS, T. W. G.; FRYHLE, C. B. Química orgânica. Rio de Janeiro: LTC, 2009 (adaptado).
+A característica estrutural dessa família de compostos é a presença de
+A ramificações.
+B insaturações.
+C anel benzênico.
+D átomos de oxigênio.
+E carbonos assimétricos.

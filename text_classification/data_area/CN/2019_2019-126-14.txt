@@ -1,0 +1,28 @@
+Uma casa tem um cabo elétrico mal dimensionado,
+de resistência igual a 10 Ω, que a conecta à rede elétrica
+de 120 V. Nessa casa, cinco lâmpadas, de resistência
+igual a 200 Ω, estão conectadas ao mesmo circuito que
+uma televisão de resistência igual a 50 Ω, conforme
+ilustrado no esquema. A televisão funciona apenas com
+tensão entre 90 V e 130 V.
+10 Ω
+200
+Ω
+200
+Ω
+200
+Ω
+200
+Ω
+200
+Ω
+50
+Ω
+120 V
+O número máximo de lâmpadas que podem ser ligadas
+sem que a televisão pare de funcionar é:
+A 1.
+B 2.
+C 3.
+D 4.
+E 5.

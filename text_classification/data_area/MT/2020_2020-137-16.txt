@@ -1,0 +1,29 @@
+Uma empresa de ônibus utiliza um sistema de
+vendas de passagens que fornece a imagem de todos
+os assentos do ônibus, diferenciando os assentos já
+vendidos, por uma cor mais escura, dos assentos ainda
+disponíveis. A empresa monitora, permanentemente,
+o número de assentos já vendidos e compara-o com
+o número total de assentos do ônibus para avaliar a
+necessidade de alocação de veículos extras.
+Na imagem tem-se a informação dos assentos já
+vendidos e dos ainda disponíveis em um determinado
+instante.
+A razão entre o número de assentos já vendidos e o total
+de assentos desse ônibus, no instante considerado na
+imagem, é
+A
+16
+42
+B
+16
+26
+C
+26
+42
+D
+42
+26
+E
+42
+16

@@ -1,0 +1,243 @@
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+QUESTÃO 163
+Em uma universidade, atuam professores que estão
+enquadrados funcionalmente pela sua maior titulação:
+mestre ou doutor. Nela há, atualmente, 60 mestres e
+40 doutores. Os salários mensais dos professores mestres
+e dos doutores são, respectivamente, R$ 8 000,00 e
+R$ 12 000,00.
+A diretoria da instituição pretende proporcionar um
+aumento salarial diferenciado para o ano seguinte, de tal
+forma que o salário médio mensal dos professores dessa
+instituição não ultrapasse R$ 12 240,00. A universidade já
+estabeleceu que o aumento salarial será de 25% para os
+mestres e precisa ainda definir o percentual de reajuste
+para os doutores.
+Mantido o número atual de professores com suas atuais
+titulações, o aumento salarial, em porcentagem, a ser
+concedido aos doutores deverá ser de, no máximo,
+A
+A 14,4.
+B
+B 20,7.
+C
+C 22,0.
+D
+D 30,0.
+E
+E 37,5.
+QUESTÃO 164
+Um borrifador de atuação automática libera, a cada
+acionamento, uma mesma quantidade de inseticida.
+O recipiente desse produto, quando cheio, contém 360 mL
+de inseticida, que duram 60 dias se o borrifador permanecer
+ligado ininterruptamente e for acionado a cada 48 minutos.
+A quantidade de inseticida que é liberada a cada
+acionamento do borrifador, em mililitro, é
+A
+A 0,125.
+B
+B 0,200.
+C
+C 4,800.
+D
+D 6,000.
+E
+E 12,000.
+QUESTÃO 165
+Definem-seodiaeoanodeumplanetadeumsistemasolar
+como sendo, respectivamente, o tempo que o planeta leva para
+dar 1 volta completa em torno de seu próprio eixo de rotação e o
+tempo para dar 1 volta completa em torno de seu Sol.
+Suponha que exista um planeta Z, em algum sistema
+solar, onde um dia corresponda a 73 dias terrestres e
+que 2 de seus anos correspondam a 1 ano terrestre.
+Considere que 1 ano terrestre tem 365 de seus dias.
+No planeta Z, seu ano corresponderia a quantos de seus
+dias?
+A
+A 2,5
+B
+B 10,0
+C
+C 730,0
+D
+D 13 322,5
+E
+E 53 290,0
+QUESTÃO 166
+Em uma competição de velocidade, diz-se que há uma
+ultrapassagem quando um veículo que está atrás de outro
+passa à sua frente, com ambos se deslocando no mesmo
+sentido. Considere uma competição automobilística entre
+cinco carros em uma pista com 100 m de comprimento,
+onde todos largam no mesmo instante e da mesma linha.
+O gráfico mostra a variação da distância percorrida por cada
+veículo, em função do tempo, durante toda a competição.
+100
+0
+Distância
+(m)
+0 Tempo (s) 15
+Qual o número de ultrapassagens, após o início da
+competição, efetuadas pelo veículo que chegou em
+último lugar?
+A
+A 0
+B
+B 1
+C
+C 2
+D
+D 3
+E
+E 4
+QUESTÃO 167
+Em uma loja, o preço promocional de uma geladeira
+é de R$ 1 000,00 para pagamento somente em dinheiro.
+Seu preço normal, fora da promoção, é 10% maior. Para
+pagamento feito com o cartão de crédito da loja, é dado
+um desconto de 2% sobre o preço normal.
+Uma cliente decidiu comprar essa geladeira, optando
+pelo pagamento com o cartão de crédito da loja. Ela
+calculou que o valor a ser pago seria o preço promocional
+acrescido de 8%. Ao ser informada pela loja do valor a
+pagar, segundo sua opção, percebeu uma diferença entre
+seu cálculo e o valor que lhe foi apresentado.
+O valor apresentado pela loja, comparado ao valor
+calculado pela cliente, foi
+A
+A R$ 2,00 menor.
+B
+B R$ 100,00 menor.
+C
+C R$ 200,00 menor.
+D
+D R$ 42,00 maior.
+E
+E R$ 80,00 maior.

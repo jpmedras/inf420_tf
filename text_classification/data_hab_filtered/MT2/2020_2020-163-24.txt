@@ -1,0 +1,19 @@
+Nos livros Harry Potter, um anagrama do nome do
+personagem “TOM MARVOLO RIDDLE” gerou a frase
+“I AM LORD VOLDEMORT”.
+Suponha que Harry quisesse formar todos os
+anagramas da frase “I AM POTTER”, de tal forma
+que as vogais e consoantes aparecessem sempre
+intercaladas, e sem considerar o espaçamento entre
+as letras.
+Nessas condições, o número de anagramas formados
+é dado por
+A 9!
+B 4! 5!
+C 2 × 4! 5!
+D
+9!
+2
+E
+4! 5!
+2

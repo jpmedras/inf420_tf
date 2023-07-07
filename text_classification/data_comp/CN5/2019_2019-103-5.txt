@@ -1,0 +1,37 @@
+Estudos mostram o desenvolvimento de biochips
+utilizados para auxiliar o diagnóstico de diabetes melito,
+doença evidenciada pelo excesso de glicose no organismo.
+O teste é simples e consiste em duas reações sequenciais
+na superfície do biochip, entre a amostra de soro sanguíneo
+do paciente, enzimas específicas e reagente (iodeto de
+potássio, KI), conforme mostrado na imagem.
+Enzimas KI
+Cor
+Soro
+Fluxo
+(i) Biochip antes da adição de soro
+(ii) Biochip após a adição de soro
+Após a adição de soro sanguíneo, o fluxo desloca-
+-se espontaneamente da esquerda para a direita (ii)
+promovendo reações sequenciais, conforme as
+equações 1 e 2. Na primeira, há conversão de glicose
+do sangue em ácido glucônico, gerando peróxido de
+hidrogênio:
+Equação 1
+C6H12O6 (aq) + O2 (g) + H2O (l) Enzimas C6H12O7 (aq) + H2O2 (aq)
+Na segunda, o peróxido de hidrogênio reage com
+íons iodeto gerando o íon tri-iodeto, água e oxigênio.
+Equação 2
+2 H2O2 (aq) + 3 l− (aq) I3
+− (aq) + 2 H2O (I) + O2 (g)
+GARCIA, P. T. et al. A Handheld Stamping Process to Fabricate
+Microfluidic Paper-Based Analytical Devices with Chemically
+Modified Surface for Clinical Assays. RSC Advances,
+v. 4, 13 ago. 2014 (adaptado).
+O tipo de reação que ocorre na superfície do biochip,
+nas duas reações do processo, é
+A análise.
+B síntese.
+C oxirredução.
+D complexação.
+E ácido-base.

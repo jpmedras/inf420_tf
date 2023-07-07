@@ -1,0 +1,222 @@
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+MATEMÁTICA E SUAS TECNOLOGIAS
+Questões de 136 a 180
+QUESTÃO 136
+Uma máquina em operação tem sua temperatura
+T monitorada por meio de um registro gráfico, ao longo do
+tempo t. Essa máquina possui um pistão cuja velocidade
+V varia com a temperatura T da máquina, de acordo
+com a expressão V = T 2
+− 4. Após a máquina funcionar
+durante o intervalo de tempo de 10 horas, o seu operador
+analisa o registro gráfico, apresentado na figura, para
+avaliar a necessidade de eventuais ajustes, sabendo que
+a máquina apresenta falhas de funcionamento quando a
+velocidade do pistão se anula.
+4
+T (ºC)
+2
+0
+−2
+10
+t (h)
+Quantas vezes a velocidade do pistão se anulou durante
+as 10 horas de funcionamento?
+A
+A 1
+B
+B 2
+C
+C 3
+D
+D 4
+E
+E 5
+QUESTÃO 137
+A World Series é a decisão do campeonato
+norte-americano de beisebol. Os dois times que chegam
+a essa fase jogam, entre si, até sete partidas. O primeiro
+desses times que completar quatro vitórias é declarado
+campeão.
+Considere que, em todas as partidas, a probabilidade
+de qualquer um dos dois times vencer é sempre
+1
+2
+.
+Qual é a probabilidade de o time campeão ser aquele que
+venceu a primeira partida da World Series?
+A
+A
+35
+64
+B
+B
+40
+64
+C
+C
+42
+64
+D
+D
+44
+64
+E
+E
+52
+64
+QUESTÃO 138
+O gráfico apresenta os totais de receitas e despesas
+de uma empresa, expressos em milhão de reais, no
+decorrer dos meses de um determinado ano. A empresa
+obtém lucro quando a diferença entre receita e despesa é
+positiva e tem prejuízo quando essa diferença é negativa.
+Jan. Fev. Mar. Abr. Maio Jun. Jul. Ago. Set. Out. Nov. Dez.
+9
+8
+7
+6
+5
+4
+3
+2
+1
+0
+Receitas Despesas
+Qual é a mediana, em milhão de reais, dos valores dos
+lucros apurados pela empresa nesse ano?
+A
+A 1,5
+B
+B 2,0
+C
+C 2,9
+D
+D 3,0
+E
+E 5,5

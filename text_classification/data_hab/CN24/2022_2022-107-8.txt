@@ -1,0 +1,73 @@
+A biomassa celulósica pode ser utilizada para a produção de etanol de segunda geração. Entretanto, é necessário
+que os polissacarídeos sejam convertidos em mono e dissacarídeos, processo que pode ser conduzido em meio
+ácido, conforme mostra o esquema:
+O
+OH
+O
+H
+O
+O
+OH
+O
+OH
+OH
+O
+H
+O
+OH
+O
+H
+O
++
+O
+OH
+O
+OH
+OH
+O
+H
+H
+O
+H O
+OH
+OH
+O
+H
+O
+OH
+O
+H
+O
+OH
+H
+O
+H
+O
+OH
+O
+H O
++
+O
+OH
+H
+H
+O
+OH
+O
+H OH
+O
+OH
+H
++
++
+H
++
++
+OGEDA, T. L.; PETRI, D. F. S. [...] Química Nova, n. 7, 2010 (adaptado).
+Nessa conversão de polissacarídeos, a função do íon H+
+é
+A dissolver os reagentes.
+B deslocar o equilíbrio químico.
+C aumentar a velocidade da reação.
+D mudar a constante de equilíbrio da reação.
+E formar ligações de hidrogênio com o polissacarídeo.

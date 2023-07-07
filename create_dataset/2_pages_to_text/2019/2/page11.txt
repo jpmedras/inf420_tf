@@ -1,0 +1,30 @@
+Questão 119
+Dois amigos se encontram em um posto de gasolina para calibrar os pneus de suas bicicletas.
+Uma das bicicletas é de corrida (bicicleta A) e a outra, de passeio (bicicleta B). Os pneus de ambas as bicicletas
+têm as mesmas características, exceto que a largura dos pneus de A é menor que a largura dos pneus de B.
+Ao calibrarem os pneus das bicicletas A e B, respectivamente com pressões de calibração pA e pB, os amigos
+observam que o pneu da bicicleta A deforma, sob mesmos esforços, muito menos que o pneu da bicicleta B.
+Pode-se considerar que as massas de ar comprimido no pneu da bicicleta A, mA, e no pneu da bicicleta B, mB, são
+diretamente proporcionais aos seus volumes.
+Comparando as pressões e massas de ar comprimido nos pneus das bicicletas, temos:
+A pA < pB e mA < mB
+B pA > pB e mA < mB
+C pA > pB e mA = mB
+D pA < pB e mA = mB
+E pA > pB e mA > mB
+Questão 120
+A utilização de corantes na indústria de alimentos é bastante difundida e a escolha por corantes naturais vem
+sendo mais explorada por diversas razões. A seguir são mostradas três estruturas de corantes naturais.
+Bixina (presente no urucum)
+Licopeno (presente no tomate)
+β-caroteno (presente na cenoura e na laranja)
+COOCH3
+HOOC
+HAMERSKI, L.; REZENDE, M. J. C.; SILVA, B. V. Usando as cores da natureza para atender aos desejos do consumidor:
+substâncias naturais como corantes na indústria alimentícia. Revista Virtual de Química, n. 3, 2013.
+A propriedade comum às estruturas que confere cor a esses compostos é a presença de
+A cadeia conjugada.
+B cadeia ramificada.
+C átomos de carbonos terciários.
+D ligações duplas de configuração cis.
+E átomos de carbonos de hibridação sp3.

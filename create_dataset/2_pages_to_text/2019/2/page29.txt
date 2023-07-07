@@ -1,0 +1,90 @@
+Questão 175
+Uma construtora pretende conectar um reservatório
+central (Rc) em formato de um cilindro, com raio interno
+igual a 2 m e altura interna igual a 3,30 m, a quatro
+reservatórios cilíndricos auxiliares (R1, R2, R3 e R4),
+os quais possuem raios internos e alturas internas
+medindo 1,5 m.
+R1 R3
+R2
+RC
+R4
+As ligações entre o reservatório central e os
+auxiliares são feitas por canos cilíndricos com 0,10 m
+de diâmetro interno e 20 m de comprimento, conectados
+próximos às bases de cada reservatório. Na conexão
+de cada um desses canos com o reservatório central há
+registros que liberam ou interrompem o fluxo de água.
+No momento em que o reservatório central está
+cheio e os auxiliares estão vazios, abrem-se os quatro
+registros e, após algum tempo, as alturas das colunas
+de água nos reservatórios se igualam, assim que cessa
+o fluxo de água entre eles, pelo princípio dos vasos
+comunicantes.
+A medida, em metro, das alturas das colunas de água
+nos reservatórios auxiliares, após cessar o fluxo de
+água entre eles, é
+A 1,44.
+B 1,16.
+C 1,10.
+D 1,00.
+E 0,95.
+Questão 176
+Para construir uma piscina, cuja área total da
+superfície interna é igual a 40 m2, uma construtora
+apresentou o seguinte orçamento:
+• R$ 10 000,00 pela elaboração do projeto;
+• R$ 40 000,00 pelos custos fixos;
+• R$ 2 500,00 por metro quadrado para construção
+da área interna da piscina.
+Após a apresentação do orçamento, essa empresa
+decidiu reduzir o valor de elaboração do projeto em
+50%, mas recalculou o valor do metro quadrado para a
+construção da área interna da piscina, concluindo haver
+a necessidade de aumentá-lo em 25%. Além disso, a
+construtora pretende dar um desconto nos custos fixos,
+de maneira que o novo valor do orçamento seja reduzido
+em 10% em relação ao total inicial.
+O percentual de desconto que a construtora deverá
+conceder nos custos fixos é de
+A 23,3%
+B 25,0%
+C 50,0%
+D 87,5%
+E 100,0%
+Questão 177
+Um grupo de engenheiros está projetando um motor
+cujo esquema de deslocamento vertical do pistão dentro
+da câmara de combustão está representado na figura.
+Pistão
+Pistão
+Câmara de
+combustão
+Câmara de
+combustão
+h(0) = 0
+Instante t = 0 Instante t ≠ 0
+h(t)
+A função h t sen
+t
+( ) 4 4 definida para t ≥ 0
+descreve como varia a altura h, medida em centímetro, da
+parte superior do pistão dentro da câmara de combustão,
+em função do tempo t, medido em segundo. Nas figuras
+estão indicadas as alturas do pistão em dois instantes
+distintos.
+O valor do parâmetro β, que é dado por um número
+inteiro positivo, está relacionado com a velocidade
+de deslocamento do pistão. Para que o motor tenha
+uma boa potência, é necessário e suficiente que, em
+menos de 4 segundos após o início do funcionamento
+(instante t = 0), a altura da base do pistão alcance por
+três vezes o valor de 6 cm. Para os cálculos, utilize 3
+como aproximação para π.
+O menor valor inteiro a ser atribuído ao parâmetro β , de
+forma que o motor a ser construído tenha boa potência, é
+A 1.
+B 2.
+C 4.
+D 5.
+E 8.

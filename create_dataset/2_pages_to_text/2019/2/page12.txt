@@ -1,0 +1,84 @@
+Questão 121
+Numa feira de ciências, um estudante utilizará o
+disco de Maxwell (ioiô) para demonstrar o princípio da
+conservação da energia. A apresentação consistirá em
+duas etapas:
+Etapa 1 - a explicação de que, à medida que o disco
+desce, parte de sua energia potencial gravitacional
+é transformada em energia cinética de translação e
+energia cinética de rotação;
+Etapa 2 - o cálculo da energia cinética de rotação do
+disco no ponto mais baixo de sua trajetória, supondo o
+sistema conservativo.
+Ao preparar a segunda etapa, ele considera a
+aceleração da gravidade igual a 10 m s−2 e a velocidade
+linear do centro de massa do disco desprezível em
+comparação com a velocidade angular. Em seguida,
+mede a altura do topo do disco em relação ao chão no
+ponto mais baixo de sua trajetória, obtendo 1
+3
+da altura
+da haste do brinquedo.
+As especificações de tamanho do brinquedo, isto é,
+de comprimento (C), largura (L) e altura (A), assim como
+da massa de seu disco de metal, foram encontradas
+pelo estudante no recorte de manual ilustrado a seguir.
+Conteúdo: base de metal, hastes metálicas,
+barra superior, disco de metal.
+Tamanho (C × L × A): 300 mm × 100 mm × 410 mm
+Massa do disco de metal: 30 g
+2h
+3
+h
+O resultado do cálculo da etapa 2, em joule, é:
+A 4,10 × 10−2
+B 8,20 × 10−2
+C 1,23 × 10−1
+D 8,20 × 104
+E 1,23 × 105
+Questão 122
+O odor que permanece nas mãos após o contato com
+alho pode ser eliminado pela utilização de um “sabonete
+de aço inoxidável”, constituído de aço inox (74%), cromo
+e níquel. A principal vantagem desse “sabonete” é que
+ele não se desgasta com o uso. Considere que a principal
+substância responsável pelo odor de alho é a alicina
+(estrutura I) e que, para que o odor seja eliminado, ela
+seja transformada na estrutura II.
+O
+S
+S
+Estrutura I
+CH2
+═ CH — CH2
+— S — S — CH2
+— CH ═ CH2
+Estrutura II
+Na conversão de I em II, o “sabonete” atuará como um
+A ácido.
+B redutor.
+C eletrólito.
+D tensoativo.
+E catalisador.
+Questão 123
+A poluição radioativa compreende mais de
+200 nuclídeos, sendo que, do ponto de vista de impacto
+ambiental, destacam-se o césio-137 e o estrôncio-90.
+A maior contribuição de radionuclídeos antropogênicos
+no meio marinho ocorreu durante as décadas de 1950
+e 1960, como resultado dos testes nucleares realizados
+na atmosfera. O estrôncio-90 pode se acumular nos
+organismos vivos e em cadeias alimentares e, em
+razão de sua semelhança química, pode participar no
+equilíbrio com carbonato e substituir o cálcio em diversos
+processos biológicos.
+FIGUEIRA, R. C. L.; CUNHA, I. I. L. A contaminação dos oceanos por
+radionuclídeos antropogênicos. Química Nova, n. 21, 1998 (adaptado).
+Ao entrar numa cadeia alimentar da qual o homem
+faz parte, em qual tecido do organismo humano o
+estrôncio-90 será acumulado predominantemente?
+A Cartilaginoso.
+B Sanguíneo.
+C Muscular.
+D Nervoso.
+E Ósseo.

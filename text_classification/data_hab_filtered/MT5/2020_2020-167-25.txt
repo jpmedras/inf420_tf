@@ -1,0 +1,15 @@
+O quadro representa os gastos mensais, em real,
+de uma família com internet, mensalidade escolar e
+mesada do filho.
+Internet Mensalidade escolar Mesada do filho
+120 700 400
+No início do ano, a internet e a mensalidade escolar
+tiveram acréscimos, respectivamente, de 20% e 10%.
+Necessitando manter o valor da despesa mensal total
+com os itens citados, a família reduzirá a mesada do filho.
+Qual será a porcentagem da redução da mesada?
+A 15,0
+B 23,5
+C 30,0
+D 70,0
+E 76,5

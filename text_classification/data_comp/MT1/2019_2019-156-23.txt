@@ -1,0 +1,12 @@
+Durante suas férias, oito amigos, dos quais dois são
+canhotos, decidem realizar um torneio de vôlei de praia.
+Eles precisam formar quatro duplas para a realização
+do torneio. Nenhuma dupla pode ser formada por dois
+jogadores canhotos.
+De quantas maneiras diferentes podem ser formadas
+essas quatro duplas?
+A 69
+B 70
+C 90
+D 104
+E 105

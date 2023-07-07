@@ -1,0 +1,78 @@
+Questão 155
+Após o Fórum Nacional Contra a Pirataria (FNCP)
+incluir a linha de autopeças em campanha veiculada
+contra a falsificação, as agências fiscalizadoras
+divulgaram que os cinco principais produtos de
+autopeças falsificados são: rolamento, pastilha de freio,
+caixa de direção, catalisador e amortecedor.
+Após uma grande apreensão, as peças falsas foram
+cadastradas utilizando-se a codificação:
+Disponível em: www.oficinabrasil.com.br.
+Acesso em: 25 ago. 2014 (adaptado).
+1: rolamento, 2: pastilha de freio, 3: caixa de direção,
+4: catalisador e 5: amortecedor.
+Ao final obteve-se a sequência: 5, 4, 3, 2, 1, 2, 3, 4,
+5, 4, 3, 2, 1, 2, 3, 4, 5, 4, 3, 2, 1, 2, 3, 4, ... que apresenta
+um padrão de formação que consiste na repetição de um
+bloco de números. Essa sequência descreve a ordem
+em que os produtos apreendidos foram cadastrados.
+O 2 015º item cadastrado foi um(a)
+A rolamento.
+B catalisador.
+C amortecedor.
+D pastilha de freio.
+E caixa de direção.
+Questão 156
+Durante suas férias, oito amigos, dos quais dois são
+canhotos, decidem realizar um torneio de vôlei de praia.
+Eles precisam formar quatro duplas para a realização
+do torneio. Nenhuma dupla pode ser formada por dois
+jogadores canhotos.
+De quantas maneiras diferentes podem ser formadas
+essas quatro duplas?
+A 69
+B 70
+C 90
+D 104
+E 105
+Questão 157
+As luminárias para um laboratório de matemática
+serão fabricadas em forma de sólidos geométricos.
+Uma delas terá a forma de um tetraedro truncado.
+Esse sólido é gerado a partir de secções paralelas
+a cada uma das faces de um tetraedro regular.
+Para essa luminária, as secções serão feitas de
+maneira que, em cada corte, um terço das arestas
+seccionadas serão removidas. Uma dessas secções
+está indicada na figura.
+Essa luminária terá por faces
+A 4 hexágonos regulares e 4 triângulos equiláteros.
+B 2 hexágonos regulares e 4 triângulos equiláteros.
+C 4 quadriláteros e 4 triângulos isósceles.
+D 3 quadriláteros e 4 triângulos isósceles.
+E 3 hexágonos regulares e 4 triângulos equiláteros.
+Questão 158
+Comum em lançamentos de empreendimentos
+imobiliários, as maquetes de condomínios funcionam
+como uma ótima ferramenta de marketing para as
+construtoras, pois, além de encantar clientes, auxiliam
+de maneira significativa os corretores na negociação e
+venda de imóveis.
+Um condomínio está sendo lançado em um novo
+bairro de uma cidade. Na maquete projetada pela
+construtora, em escala de 1 : 200, existe um reservatório
+de água com capacidade de 45 cm3.
+Quando todas as famílias estiverem residindo
+no condomínio, a estimativa é que, por dia, sejam
+consumidos 30 000 litros de água.
+Em uma eventual falta de água, o reservatório cheio
+será suficiente para abastecer o condomínio por
+quantos dias?
+A 30
+B 15
+C 12
+D 6
+E 3
+a
+3
+a

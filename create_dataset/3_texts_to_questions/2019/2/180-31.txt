@@ -1,0 +1,17 @@
+Um casal planejou uma viagem e definiu como teto para o gasto diário um valor de até R$ 1 000,00. Antes de
+decidir o destino da viagem, fizeram uma pesquisa sobre a taxa de câmbio vigente para as moedas de cinco países
+que desejavam visitar e também sobre as estimativas de gasto diário em cada um, com o objetivo de escolher o
+destino que apresentasse o menor custo diário em real.
+O quadro mostra os resultados obtidos com a pesquisa realizada.
+País de destino Moeda local Taxa de câmbio Gasto diário
+França Euro (€) R$ 3,14 315,00 €
+EUA Dólar (US$) R$ 2,78 US$ 390,00
+Austrália Dólar australiano (A$) R$ 2,14 A$ 400,00
+Canadá Dólar canadense (C$) R$ 2,10 C$ 410,00
+Reino Unido Libra esterlina (£) R$ 4,24 £ 290,00
+Nessas condições, qual será o destino escolhido para a viagem?
+A Austrália.
+B Canadá.
+C EUA.
+D França.
+E Reino Unido.

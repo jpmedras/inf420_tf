@@ -1,0 +1,238 @@
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+QUESTÃO 148
+Aluminosidade L de uma estrela está relacionada com
+o raio R e com a temperatura T dessa estrela segundo a
+Lei de Stefan-Boltzmann: L = c ⋅ R2
+⋅ T4
+, em que c é uma
+constante igual para todas as estrelas.
+Disponível em: http://ciencia.hsw.uol.com.br. Acesso em: 22 nov. 2013 (adaptado).
+Considere duas estrelas E e F, sendo que a estrela E
+tem metade do raio da estrela F e o dobro da temperatura
+de F.
+Indique por LE
+e LF
+suas respectivas luminosidades.
+A relação entre as luminosidades dessas duas estrelas é
+dada por
+A
+A L
+L
+E
+F
+=
+2
+B
+B L
+L
+E
+F
+=
+4
+C
+C LE
+= LF
+D
+D LE
+= 4LF
+E
+E LE
+= 8LF
+QUESTÃO 149
+Uma das informações que pode auxiliar no
+dimensionamento do número de pediatras que devem
+atender em uma Unidade Básica de Saúde (UBS) é
+o número que representa a mediana da quantidade
+de crianças por família existente na região sob sua
+responsabilidade. O quadro mostra a distribuição das
+frequências do número de crianças por família na região
+de responsabilidade de uma UBS.
+Número de crianças
+por família
+Frequência
+0 100
+1 400
+2 200
+3 150
+4 100
+5 50
+O número que representa a mediana da quantidade de
+crianças por família nessa região é
+A
+A 1,0.
+B
+B 1,5.
+C
+C 1,9.
+D
+D 2,1.
+E
+E 2,5.
+QUESTÃO 150
+Em jogos de voleibol, um saque é invalidado se a bola
+atingir o teto do ginásio onde ocorre o jogo. Um jogador de
+uma equipe tem um saque que atinge uma grande altura.
+Seu recorde foi quando a batida do saque se iniciou a
+uma altura de 1,5 m do piso da quadra, e a trajetória da
+bola foi descrita pela parábola y
+x x
+   
+2
+6
+7
+3
+12 , em
+que y representa a altura da bola em relação ao eixo
+x (das abscissas) que está localizado a 1,5 m do piso
+da quadra, como representado na figura. Suponha que
+em todas as partidas algum saque desse jogador atinja a
+mesma altura do seu recorde.
+1,5 m 1,5 m
+1,5 m
+y
+x
+A equipe desse jogador participou de um torneio de
+voleibol no qual jogou cinco partidas, cada uma delas
+em um ginásio diferente. As alturas dos tetos desses
+ginásios, em relação aos pisos das quadras, são:
+• ginásio I: 17 m;
+• ginásio II: 18 m;
+• ginásio III: 19 m;
+• ginásio IV: 21 m;
+• ginásio V: 40 m.
+O saque desse atleta foi invalidado
+A
+A apenas no ginásio I.
+B
+B apenas nos ginásios I e II.
+C
+C apenas nos ginásios I, II e III.
+D
+D apenas nos ginásios I, II, III e IV.
+E
+E em todos os ginásios.

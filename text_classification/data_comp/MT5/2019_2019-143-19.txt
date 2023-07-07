@@ -1,0 +1,29 @@
+Os exercícios físicos são recomendados para o
+bom funcionamento do organismo, pois aceleram o
+metabolismo e, em consequência, elevam o consumo
+de calorias. No gráfico, estão registrados os valores
+calóricos, em kcal, gastos em cinco diferentes atividades
+físicas, em função do tempo dedicado às atividades,
+contado em minuto.
+140
+(kcal)
+120
+100
+80
+60
+40
+20
+5 10
+II
+III
+IV
+V
+I
+15 20 25 30 Tempo (min)
+Qual dessas atividades físicas proporciona o maior
+consumo de quilocalorias por minuto?
+A I
+B II
+C III
+D IV
+E V

@@ -1,0 +1,272 @@
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+QUESTÃO 112
+Um pai faz um balanço utilizando dois segmentos
+paralelos e iguais da mesma corda para fixar uma tábua a
+uma barra horizontal. Por segurança, opta por um tipo de
+corda cuja tensão de ruptura seja 25% superior à tensão
+máxima calculada nas seguintes condições:
+• O ângulo máximo atingido pelo balanço em relação
+à vertical é igual a 90°;
+• Os filhos utilizarão o balanço até que tenham uma
+massa de 24 kg.
+Além disso, ele aproxima o movimento do balanço
+para o movimento circular uniforme, considera que a
+aceleração da gravidade é igual a 10 2
+m
+s
+e despreza
+forças dissipativas.
+Qual é a tensão de ruptura da corda escolhida?
+A
+A 120 N
+B
+B 300 N
+C
+C 360 N
+D
+D 450 N
+E
+E 900 N
+QUESTÃO 113
+A nanotecnologia é responsável pelo aprimoramento
+de diversos materiais, incluindo os que são impactados
+com a presença de poluentes e da umidade na atmosfera,
+causadores de corrosão. O processo de corrosão é
+espontâneo e provoca a deterioração de metais como
+o ferro, que, em presença de oxigênio e água, sofre
+oxidação, conforme ilustra a equação química:
+4 Fe (s) + 2 H2
+O (l) + 3 O2
+(g) → 2 Fe2
+O3
+⋅H2
+O (s)
+Uma forma de garantir a durabilidade da estrutura
+metálica e a sua resistência à umidade consiste na
+deposição de filmes finos nanocerâmicos à base de
+zircônia (ZrO2
+) e alumina (Al2
+O3
+) sobre a superfície do
+objeto que se deseja proteger.
+CLEMENTE, G. A. B. F. et al. O uso de materiais híbridos ou nanocompósitos como
+revestimentos anticorrosivos do aço. Química Nova, n. 9, 2021 (adaptado).
+Essa nanotecnologia aplicada na proteção contra a
+corrosão se baseia no(a)
+A
+A proteção catódica, que utiliza um metal fortemente
+redutor.
+B
+B uso de metais de sacrifício, que se oxidam no lugar
+do ferro.
+C
+C passivação do ferro, que fica revestido pelo seu
+próprio óxido.
+D
+D efeito de barreira, que impede o contato com o agente
+oxidante.
+E
+E galvanização, que usa outros metais de menor
+potencial de redução.
+QUESTÃO 114
+As células da epiderme da folha da Tradescantia
+pallida purpurea, uma herbácea popularmente conhecida
+como trapoeraba-roxa, contém um vacúolo onde se
+encontra um pigmento que dá a coloração arroxeada a
+esse tecido. Em um experimento, um corte da epiderme
+de uma folha da trapoeraba-roxa foi imerso em ambiente
+hipotônico e, logo em seguida, foi colocado em uma
+lâmina e observado em microscópio óptico.
+Durante a observação desse corte, foi possível identificar o(a)
+A
+A acúmulo do solvente com fragmentação da organela.
+B
+B rompimento da membrana celular com liberação do
+citosol.
+C
+C aumento do vacúolo com diluição do pigmento no seu
+interior.
+D
+D quebra da parede celular com extravasamento do
+pigmento.
+E
+E murchamento da célula com expulsão do pigmento
+do vacúolo.
+QUESTÃO 115
+A variação da incidência de radiação solar sobre
+a superfície da Terra resulta em uma variação de
+temperatura ao longo de um dia denominada amplitude
+térmica. Edificações e pavimentações realizadas nas
+áreas urbanas contribuem para alterar as amplitudes
+térmicas dessas regiões, em comparação com regiões que
+mantêm suas características naturais, com presença de
+vegetação e água, já que o calor específico do concreto é
+inferior ao da água. Assim, parte da avaliação do impacto
+ambiental que a presença de concreto proporciona às
+áreas urbanas consiste em considerar a substituição
+da área concretada por um mesmo volume de água e
+comparar as variações de temperatura devido à absorção
+da radiação solar nas duas situações (concretada e
+alagada). Desprezando os efeitos da evaporação e
+considerando que toda a radiação é absorvida, essa
+avaliação pode ser realizada com os seguintes dados:
+Densidade
+kg
+m3
+
+
+
+
+
+ Calor específico
+J
+g C
+
+
+
+
+
+
+
+
+Água 1 000 4,2
+Concreto 2 500 0,8
+ROMERO, M. A. B. et al. Mudanças climáticas e ilhas de calor urbanas.
+Brasília: UnB; ETB, 2019 (adaptado).
+A razão entre as variações de temperatura nas áreas
+concretada e alagada é mais próxima de
+A
+A 1,0.
+B
+B 2,1.
+C
+C 2,5.
+D
+D 5,3.
+E
+E 13,1.

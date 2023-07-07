@@ -1,0 +1,68 @@
+Questão 165
+O técnico de um time de basquete pretende aumentar
+a estatura média de sua equipe de 1,93 m para, no
+mínimo, 1,99 m. Para tanto, dentre os 15 jogadores que
+fazem parte de sua equipe, irá substituir os quatro mais
+baixos, de estaturas: 1,78 m, 1,82 m, 1,84 m e 1,86 m.
+Para isso, o técnico contratou um novo jogador de 2,02 m.
+Os outros três jogadores que ele ainda precisa contratar
+devem satisfazer à sua necessidade de aumentar a média
+das estaturas da equipe. Ele fixará a média das estaturas
+para os três jogadores que ainda precisa contratar dentro
+do critério inicialmente estabelecido.
+Qual deverá ser a média mínima das estaturas, em metro,
+que ele deverá fixar para o grupo de três novos jogadores
+que ainda irá contratar?
+A 1,96
+B 1,98
+C 2,05
+D 2,06
+E 2,08
+Questão 166
+O consumo de espumantes no Brasil tem
+aumentado nos últimos anos. Uma das etapas do
+seu processo de produção consiste no envasamento
+da bebida em garrafas semelhantes às da imagem.
+Nesse processo, a vazão do líquido no interior da
+garrafa é constante e cessa quando atinge o nível de
+envasamento.
+Nível de envasamento
+da garrafa
+Qual esboço de gráfico melhor representa a variação da
+altura do líquido em função do tempo, na garrafa indicada
+na imagem?
+A
+altura
+tempo
+0
+B
+altura
+tempo
+0
+C
+altura
+tempo
+0
+D
+altura
+tempo
+0
+E
+altura
+0 tempo
+Questão 167
+O quadro representa os gastos mensais, em real,
+de uma família com internet, mensalidade escolar e
+mesada do filho.
+Internet Mensalidade escolar Mesada do filho
+120 700 400
+No início do ano, a internet e a mensalidade escolar
+tiveram acréscimos, respectivamente, de 20% e 10%.
+Necessitando manter o valor da despesa mensal total
+com os itens citados, a família reduzirá a mesada do filho.
+Qual será a porcentagem da redução da mesada?
+A 15,0
+B 23,5
+C 30,0
+D 70,0
+E 76,5

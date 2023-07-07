@@ -1,0 +1,288 @@
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+CIÊNCIAS DA NATUREZA E SUAS TECNOLOGIAS
+Questões de 91 a 135
+QUESTÃO 91
+A figura ilustra esquematicamente um processo de
+remediação de solos contaminados com tricloroeteno
+(TCE), um agente desengraxante. Em razão de
+vazamentos de tanques de estocagem ou de manejo
+inapropriado de resíduos industriais, ele se encontra
+presente em águas subterrâneas, nas quais forma
+uma fase líquida densa não aquosa (DNAPL) que se
+deposita no fundo do aquífero. Essa tecnologia de
+descontaminação emprega o íon persulfato (S2
+O8
+2−
+), que
+é convertido no radical •SO4
+−
+por minerais que contêm
+Fe(III). O esquema representa de forma simplificada o
+mecanismo de ação química sobre o TCE e a formação
+dos produtos de degradação.
+A
+A
+A
+A
+A
+SOLO
+Cl
+Cl
+Cl
+OH
+Cl
+Cl
+O
+OH
+O
+O
+H
+O
+OH
+C
+H
+O
+MONITORAMENTO
+TCE
+DNAPL SOLUBILIZAÇÃO ÁGUA SUBTERRÂNEA
+TCE
+S O SO
+Fe III
+2 8
+2
+4
+⋅
+S O
+2 8
+2−
+( )
+BERTAGI, L. T.; BASÍLIO, A. O.; PERALTA-ZAMORA, P. Aplicações ambientais de persulfato:
+remediação de águas subterrâneas e solos contaminados. Química Nova, n. 9, 2021 (adaptado).
+Esse procedimento de remediação de águas subterrâneas
+baseia-se em reações de
+A
+A oxirredução.
+B
+B substituição.
+C
+C precipitação.
+D
+D desidratação.
+E
+E neutralização.
+QUESTÃO 92
+De acordo com a Organização Mundial da Saúde,
+a filariose e a leishmaniose são consideradas doenças
+tropicais infecciosas e constituem uma preocupação para
+a saúde pública por ser alto o índice de mortalidade a
+elas associado.
+Uma medida profilática comum a essas duas doenças é o(a)
+A
+A incineração do lixo orgânico.
+B
+B construção de rede de esgoto.
+C
+C uso de vermífugo pela população.
+D
+D controle das populações dos vetores.
+E
+E consumo de carnes vermelhas bem cozidas.
+QUESTÃO 93
+Em 2017, foi inaugurado, no estado da Bahia, o
+Parque Solar Lapa, composto por duas usinas (Bom Jesus
+da Lapa e Lapa) e capaz de gerar cerca de 300 GWh de
+energia por ano. Considere que cada usina apresente
+potência igual a 75 MW, com o parque totalizando uma
+potência instalada de 150 MW. Considere ainda que a
+irradiância solar média é de 1 500
+W
+m2
+e que a eficiência
+dos painéis é de 20%.
+Parque Solar Lapa entra em operação. Disponível em: www.canalbioenergia.com.br.
+Acesso em: 9 jun. 2022 (adaptado).
+Nessas condições, a área total dos painéis solares que
+compõem o Parque Solar Lapa é mais próxima de:
+A
+A 1 000 000 m2
+B
+B 500 000 m2
+C
+C 250 000 m2
+D
+D 100 000 m2
+E
+E 20 000 m2
+QUESTÃO 94
+Os riscos apresentados pelos produtos dependem de
+suas propriedades e da reatividade quando em contato
+com outras substâncias. Para prevenir os riscos devido
+à natureza química dos produtos, devemos conhecer
+a lista de substâncias incompatíveis e de uso cotidiano
+em fábricas, hospitais e laboratórios, a fim de observar
+cuidados na estocagem, manipulação e descarte.
+O quadro elenca algumas dessas incompatibilidades, que
+podem levar à ocorrência de acidentes.
+Substância Incompatibilidade
+Riscos
+associados
+Ácidos
+minerais
+fortes
+concentrados
+Bases fortes
+Cianetos
+Hipoclorito de sódio
+Reação enérgica,
+explosão,
+produção de
+oxidante forte e
+produto tóxico
+Ácido nítrico
+concentrado
+Matéria orgânica
+Reação enérgica,
+explosão e
+produto tóxico
+Considere que houve o descarte indevido de dois
+conjuntos de substâncias:
+(1) ácido clorídrico concentrado com cianeto de potássio;
+(2) ácido nítrico concentrado com sacarose.
+Disponível em: www.fiocruz.br. Acesso em: 6 dez. 2017 (adaptado).
+O descarte dos conjuntos (1) e (2) resultará,
+respectivamente, em
+A
+A liberação de gás tóxico e reação oxidativa forte.
+B
+B reação oxidativa forte e liberação de gás tóxico.
+C
+C formação de sais tóxicos e reação oxidativa forte.
+D
+D liberação de gás tóxico e liberação de gás oxidante.
+E
+E formação de sais tóxicos e liberação de gás oxidante.

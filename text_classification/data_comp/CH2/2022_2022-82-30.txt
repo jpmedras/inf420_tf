@@ -1,0 +1,60 @@
+Rochas ígneas
+Amazônia Legal
+ROCHAS ÍGNEAS DA AMAZÔNIA LEGAL
+70°W 60°W 50°W
+70°W 60°W 50°W
+5°N
+0°
+5°S
+10°S
+15°S
+5°N
+0°
+5°S
+10°S
+15°S
+Venezuela
+Venezuela
+Colômbia
+Peru
+Bolívia
+Chile
+Guiana
+Suriname
+Guiana Francesa
+Guiana Francesa
+Oceano
+Pacífico
+Oceano
+Atlântico
+Amazonas
+Pará
+Amapá
+Tocantins
+Tocantins
+Piauí
+Bahia
+Goiás
+DF Minas Gerais
+Mato Grosso do Sul
+Rondônia
+Rondônia
+Mato Grosso
+Acre
+0 80 160 320
+Km
+Projeção: Albers
+Datum: SIRGAS 2000
+Roraima
+Roraima
+aranhão
+Maranhão
+Geoestatísticas de recursos naturais da Amazônia Legal.
+Rio de Janeiro: IBGE, 2011 (adaptado).
+O mapa espacializa um recurso natural com alto potencial
+para ocorrência de:
+A Abalos sísmicos periódicos.
+B Jazidas de minerais metálicos.
+C Reservas de combustíveis fósseis.
+D Aquíferos sedimentares profundos.
+E Estruturas geológicas metamórficas.

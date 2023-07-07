@@ -1,0 +1,115 @@
+Questão 161
+Uma loja de materiais de construção vende dois tipos de
+caixas-d’água: tipo A e tipo B. Ambas têm formato cilíndrico e
+possuem o mesmo volume, e a altura da caixa-d’água do
+tipo B é igual a 25% da altura da caixa-d’água do tipo A.
+Se R denota o raio da caixa-d’água do tipo A, então o raio
+da caixa-d’água do tipo B é
+A
+R
+2
+B 2 R
+C 4 R
+D 5 R
+E 16 R
+Questão 162
+A lei municipal para a edificação de casas em lotes
+de uma cidade determina que sejam obedecidos os
+seguintes critérios:
+• afastamento mínimo de 4 m da rua;
+• afastamento mínimo de 1 m da divisa com outro lote;
+• área total construída da casa entre 40% e 50% da
+área total do lote.
+Um construtor submeteu para aprovação na
+prefeitura dessa cidade uma planta com propostas para a
+construção de casas em seus 5 lotes. Cada lote tem área
+medindo 200 m².
+A imagem apresenta um esquema, sem escala,
+no qual estão representados os lotes, as ruas e os
+afastamentos considerados nos projetos entre as
+casas e as divisas dos lotes. As medidas indicadas no
+esquema estão expressas em metro.
+1
+Rua
+Casa 3
+Casa 5
+Casa 4
+Lote
+Lote
+Casa 1 Casa 2 Lote
+Lote
+10
+4
+1 1
+10
+10
+10
+4
+4 4
+2
+2
+1
+1
+4
+1
+1
+2
+2
+20
+20
+20
+Rua
+4
+4
+1
+1
+A prefeitura aprovará apenas a planta da casa
+A 1.
+B 2.
+C 3.
+D 4.
+E 5.
+Questão 163
+Nos livros Harry Potter, um anagrama do nome do
+personagem “TOM MARVOLO RIDDLE” gerou a frase
+“I AM LORD VOLDEMORT”.
+Suponha que Harry quisesse formar todos os
+anagramas da frase “I AM POTTER”, de tal forma
+que as vogais e consoantes aparecessem sempre
+intercaladas, e sem considerar o espaçamento entre
+as letras.
+Nessas condições, o número de anagramas formados
+é dado por
+A 9!
+B 4! 5!
+C 2 × 4! 5!
+D
+9!
+2
+E
+4! 5!
+2
+Questão 164
+A exposição a barulhos excessivos, como os que
+percebemos em geral em trânsitos intensos, casas
+noturnas e espetáculos musicais, podem provocar
+insônia, estresse, infarto, perda de audição, entre outras
+enfermidades. De acordo com a Organização Mundial
+da Saúde, todo e qualquer som que ultrapasse os 55
+decibéis (unidade de intensidade do som) já pode ser
+considerado nocivo para a saúde. O gráfico foi elaborado
+a partir da medição do ruído produzido, durante um dia,
+em um canteiro de obras.
+Decibel
+Hora
+55
+0
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24
+Disponível em: www.revistaencontro.com.br. Acesso em: 12 ago. 2020 (adaptado).
+Nesse dia, durante quantas horas o ruído esteve acima
+de 55 decibéis?
+A 5
+B 8
+C 10
+D 11
+E 13

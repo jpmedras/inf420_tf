@@ -1,0 +1,239 @@
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+QUESTÃO 122
+O veneno da cascavel pode causar hemorragia com
+risco de morte a quem é picado pela serpente. No entanto,
+pesquisadores do Brasil e da Bélgica desenvolveram uma
+molécula de interesse farmacêutico, a PEG-collineína-1,
+a partir de uma proteína encontrada no veneno dessa
+cobra, capaz de modular a coagulação sanguínea.
+Embora a técnica não seja nova, foi a primeira vez que
+o método foi usado a partir de uma toxina animal na sua
+forma recombinante, ou seja, produzida em laboratório
+por um fungo geneticamente modificado.
+JULIÃO, A. Técnica modifica proteína do veneno de cascavel e permite
+criar fármaco que modula a coagulação sanguínea. Disponível em:
+https://agencia.fapesp.br. Acesso em: 22 nov. 2021 (adaptado).
+Esse novo medicamento apresenta potencial aplicação para
+A
+A impedir a formação de trombos, típicos em alguns
+casos de acidente vascular cerebral.
+B
+B tratar consequências da anemia profunda, em razão da
+perda de grande volume de sangue.
+C
+C evitar a manifestação de urticárias, comumente
+relacionadas a processos alérgicos.
+D
+D reduzir o inchaço dos linfonodos, parte da resposta
+imunitária de diferentes infecções.
+E
+E regular a oscilação da pressão arterial, característica
+dos quadros de hipertensão.
+QUESTÃO 123
+Um Buraco Negro é um corpo celeste que possui uma
+grandequantidadedematériaconcentradaemumapequena
+região do espaço, de modo que sua força gravitacional é
+tão grande que qualquer partícula fica aprisionada em sua
+superfície, inclusive a luz. O raio dessa região caracteriza
+uma superfície-limite, chamada de horizonte de eventos,
+da qual nada consegue escapar. Considere que o Sol foi
+instantaneamente substituído por um Buraco Negro com
+a mesma massa solar, de modo que o seu horizonte de
+eventos seja de aproximadamente 3,0 km.
+SCHWARZSCHILD, K. On the Gravitational Field of a Mass Point According to
+Einstein’s Theory. Disponível em: arxiv.org. Acesso em: 26 maio 2022 (adaptado).
+Após a substituição descrita, o que aconteceria aos
+planetas do Sistema Solar?
+A
+A Eles se moveriam em órbitas espirais, aproximando-se
+sucessivamente do Buraco Negro.
+B
+B Eles oscilariam aleatoriamente em torno de suas
+órbitas elípticas originais.
+C
+C Eles se moveriam em direção ao centro do Buraco
+Negro.
+D
+D Eles passariam a precessionar mais rapidamente.
+E
+E Eles manteriam suas órbitas inalteradas.
+QUESTÃO 124
+Durante o ano de 2020, impulsionado pela necessidade
+de respostas rápidas e eficientes para desinfectar ambientes
+de possíveis contaminações com o SARS-CoV-2, causador
+da covid-19, diversas alternativas foram buscadas para
+os procedimentos de descontaminação de materiais e
+ambientes. Entre elas, o uso de ozônio em meio aquoso
+como agente sanitizante para pulverização em humanos
+e equipamentos de proteção em câmaras ou túneis,
+higienização de automóveis e de ambientes fechados e
+descontaminação de trajes. No entanto, pouca atenção foi
+dada à toxicidade do ozônio, à formação de subprodutos, ao
+nível de concentração segura e às precauções necessárias.
+LIMA, M. J. A.; FELIX, E. P.; CARDOSO, A. A. Aplicações e implicações do ozônio na
+indústria, ambiente e saúde. Química Nova, n. 9, 2021 (adaptado).
+O grande risco envolvido no emprego indiscriminado
+dessa substância deve-se à sua ação química como
+A
+A catalisador.
+B
+B oxidante.
+C
+C redutor.
+D
+D ácido.
+E
+E base.
+QUESTÃO 125
+Na figura está representado o mosaicismo em função
+da inativação aleatória de um dos cromossomos X, que
+ocorre em todas as mulheres sem alterações patológicas.
+Gameta
+masculino
+(22+X)
+Gameta
+feminino
+(22+X)
+Zigoto (44+XX)
+Blástula (44+XX)
+Células com cromossomo X paterno inativado
+Células com cromossomo X materno inativado
+Amostras de células corporais
+Entre mulheres heterozigotas para doenças determinadas
+por genes recessivos ligados ao sexo, essa inativação
+tem como consequência a ocorrência de
+A
+A pleiotropia.
+B
+B mutação gênica.
+C
+C interação gênica.
+D
+D penetrância incompleta.
+E
+E expressividade variável.

@@ -1,0 +1,86 @@
+Questão 101
+A eritropoetina (EPO) é um hormônio endógeno
+secretado pelos rins que influencia a maturação dos
+eritrócitos. Suas formas recombinantes, sintetizadas
+em laboratório, têm sido usadas por alguns atletas em
+esportes de resistência na busca por melhores resultados.
+No entanto, a administração da EPO recombinante no
+esporte foi proibida pelo Comitê Olímpico Internacional
+e seu uso considerado doping.
+MARTELLI, A. Eritropoetina: síntese e liberação fisiológica e o uso de
+sua forma recombinante no esporte. Perspectivas Online:
+biológicas & saúde, v. 10, n. 3, 2013 (adaptado).
+Uma influência que esse doping poderá exercer na
+melhoria da capacidade física desses atletas está
+relacionada ao transporte de
+A lipídios, para aumento do gasto calórico.
+B ATP, para aumento da síntese hormonal.
+C oxigênio, para aumento da produção de ATP.
+D proteínas, para aumento da massa muscular.
+E vitamina C, para aumento da integridade
+dos vasos sanguíneos.
+Questão 102
+O objetivo de recipientes isolantes térmicos é
+minimizar as trocas de calor com o ambiente externo.
+Essa troca de calor é proporcional à condutividade
+térmica k e à área interna das faces do recipiente,
+bem como à diferença de temperatura entre o
+ambiente externo e o interior do recipiente, além de ser
+inversamente proporcional à espessura das faces.
+A fim de avaliar a qualidade de dois recipientes
+A (40 cm × 40 cm × 40 cm) e B (60 cm × 40 cm × 40 cm),
+de faces de mesma espessura, uma estudante compara
+suascondutividadestérmicaskA ekB.Paraissosuspende,
+dentro de cada recipiente, blocos idênticos de gelo a
+0 °C, de modo que suas superfícies estejam em contato
+apenas com o ar. Após um intervalo de tempo, ela abre
+os recipientes enquanto ambos ainda contêm um pouco
+de gelo e verifica que a massa de gelo que se fundiu no
+recipiente B foi o dobro da que se fundiu no recipiente A.
+A razão
+kA
+kB
+é mais próxima de
+A 0,50.
+B 0,67.
+C 0,75.
+D 1,33.
+E 2,00.
+Questão 103
+Estudos mostram o desenvolvimento de biochips
+utilizados para auxiliar o diagnóstico de diabetes melito,
+doença evidenciada pelo excesso de glicose no organismo.
+O teste é simples e consiste em duas reações sequenciais
+na superfície do biochip, entre a amostra de soro sanguíneo
+do paciente, enzimas específicas e reagente (iodeto de
+potássio, KI), conforme mostrado na imagem.
+Enzimas KI
+Cor
+Soro
+Fluxo
+(i) Biochip antes da adição de soro
+(ii) Biochip após a adição de soro
+Após a adição de soro sanguíneo, o fluxo desloca-
+-se espontaneamente da esquerda para a direita (ii)
+promovendo reações sequenciais, conforme as
+equações 1 e 2. Na primeira, há conversão de glicose
+do sangue em ácido glucônico, gerando peróxido de
+hidrogênio:
+Equação 1
+C6H12O6 (aq) + O2 (g) + H2O (l) Enzimas C6H12O7 (aq) + H2O2 (aq)
+Na segunda, o peróxido de hidrogênio reage com
+íons iodeto gerando o íon tri-iodeto, água e oxigênio.
+Equação 2
+2 H2O2 (aq) + 3 l− (aq) I3
+− (aq) + 2 H2O (I) + O2 (g)
+GARCIA, P. T. et al. A Handheld Stamping Process to Fabricate
+Microfluidic Paper-Based Analytical Devices with Chemically
+Modified Surface for Clinical Assays. RSC Advances,
+v. 4, 13 ago. 2014 (adaptado).
+O tipo de reação que ocorre na superfície do biochip,
+nas duas reações do processo, é
+A análise.
+B síntese.
+C oxirredução.
+D complexação.
+E ácido-base.

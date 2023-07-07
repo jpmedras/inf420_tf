@@ -1,0 +1,24 @@
+Para chegar à universidade, um estudante utiliza
+um metrô e, depois, tem duas opções:
+• seguir num ônibus, percorrendo 2,0 km;
+• alugar uma bicicleta, ao lado da estação do metrô,
+seguindo 3,0 km pela ciclovia.
+O quadro fornece as velocidades médias do ônibus
+e da bicicleta, em km/h, no trajeto metrô−universidade.
+Dia da semana
+Velocidade média
+Ônibus (km/h) Bicicleta (km/h)
+Segunda-feira 9 15
+Terça-feira 20 22
+Quarta-feira 15 24
+Quinta-feira 12 15
+Sexta-feira 10 18
+Sábado 30 16
+A fim de poupar tempo no deslocamento para a
+universidade, em quais dias o aluno deve seguir pela
+ciclovia?
+A Às segundas, quintas e sextas-feiras.
+B Às terças e quintas-feiras e aos sábados.
+C Às segundas, quartas e sextas-feiras.
+D Às terças, quartas e sextas-feiras.
+E Às terças e quartas-feiras e aos sábados.

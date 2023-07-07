@@ -1,0 +1,75 @@
+Questão 170
+A bula de um antibiótico infantil, fabricado na
+forma de xarope, recomenda que sejam ministrados,
+diariamente, no máximo 500 mg desse medicamento
+para cada quilograma de massa do paciente. Um pediatra
+prescreveu a dosagem máxima desse antibiótico para
+ser ministrada diariamente a uma criança de 20 kg pelo
+período de 5 dias. Esse medicamento pode ser comprado
+em frascos de 10 mL, 50 mL, 100 mL, 250 mL e 500 mL.
+Os pais dessa criança decidiram comprar a quantidade
+exata de medicamento que precisará ser ministrada no
+tratamento, evitando a sobra de medicamento. Considere
+que 1 g desse medicamento ocupe um volume de 1 cm3.
+A capacidade do frasco, em mililitro, que esses pais
+deverão comprar é
+A 10.
+B 50.
+C 100.
+D 250.
+E 500.
+Questão 171
+Uma empresa confecciona e comercializa um
+brinquedo formado por uma locomotiva, pintada na cor
+preta, mais 12 vagões de iguais formato e tamanho,
+numerados de 1 a 12. Dos 12 vagões, 4 são pintados
+na cor vermelha, 3 na cor azul, 3 na cor verde e 2 na cor
+amarela. O trem é montado utilizando-se uma locomotiva
+e 12 vagões, ordenados crescentemente segundo suas
+numerações, conforme ilustrado na figura.
+1 2 3 4 5 6 7 8 9 10 11 12
+De acordo com as possíveis variações nas colorações
+dos vagões, a quantidade de trens que podem ser
+montados, expressa por meio de combinações, é
+dada por
+A 12
+4
+12
+3
+12
+3
+12
+2
+B
+C
+D
+E
+Questão 172
+O gráfico a seguir mostra a evolução mensal das
+vendas de certo produto de julho a novembro de 2011.
+Sabe-se que o mês de julho foi o pior momento da
+empresa em 2011 e que o número de unidades vendidas
+desse produto em dezembro de 2011 foi igual à média
+aritmética do número de unidades vendidas nos meses
+de julho a novembro do mesmo ano.
+O gerente de vendas disse, em uma reunião da
+diretoria, que, se essa redução no número de unidades
+vendidas de novembro para dezembro de 2011 se
+mantivesse constante nos meses subsequentes, as
+vendas só voltariam a ficar piores que julho de 2011
+apenas no final de 2012.
+O diretor financeiro rebateu imediatamente esse
+argumento mostrando que, mantida a tendência,
+isso aconteceria já em
+A janeiro.
+B fevereiro.
+C março.
+D abril.
+E maio.
+Unidades
+vendidas
+2 800
+2 700
+2 500
+700
+Jul Ago Set Out Nov Mês

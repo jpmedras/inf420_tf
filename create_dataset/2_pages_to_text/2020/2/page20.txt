@@ -1,0 +1,107 @@
+Questão 148
+A Pesquisa Nacional por Amostra de Domicílios
+(Pnad) é uma pesquisa feita anualmente pelo IBGE,
+exceto nos anos em que há Censo. Em um ano, foram
+entrevistados 363 mil jovens para fazer um levantamento
+sobre suas atividades profissionais e/ou acadêmicas. Os
+resultados da pesquisa estão indicados no gráfico.
+21,6
+13,6
+45,2
+19,6
+Jovens em atividade entre 15 e 29 anos (%)
+Somente estuda Trabalha e estuda Somente
+trabalha
+Não trabalha
+nem estuda
+Disponível em: http://noticias.uol.com.br. Acesso em: 20 ago. 2014.
+De acordo com as informações dadas, o número de
+jovens entrevistados que trabalha é
+A 114 708.
+B 164 076.
+C 213 444.
+D 284 592.
+E 291 582.
+Questão 149
+A Lei de Zipf, batizada com o nome do linguista
+americano George Zipf, é uma lei empírica que
+relaciona a frequência ( f ) de uma palavra em um
+dado texto com o seu ranking (r). Ela é dada por
+f =
+A
+r B
+.
+O ranking da palavra é a sua posição ao ordenar as
+palavras por ordem de frequência. Ou seja, r = 1 para a
+palavra mais frequente, r = 2 para a segunda palavra mais
+frequente e assim sucessivamente. A e B são constantes
+positivas.
+Diponível em: http://klein.sbm.org.br. Acesso em: 12 ago. 2020 (adatpado).
+Com base nos valores de X = log (r) e Y = log ( f ) , é
+possível estimar valores para A e B.
+No caso hipotético em que a lei é verificada exatamente,
+a relação entre Y e X é
+A Y = log A −B X
+B Y =
+log A
+X + log B
+C Y =
+A
+B
+− X
+log
+D Y =
+A
+B X
+log
+E Y =
+A
+X B
+log
+Questão 150
+Enquanto um ser está vivo, a quantidade de carbono
+14 nele existente não se altera. Quando ele morre, essa
+quantidade vai diminuindo. Sabe-se que a meia-vida do
+carbono 14 é de 5 730 anos, ou seja, num fóssil de um
+organismo que morreu há 5 730 anos haverá metade do
+carbono 14 que existia quando ele estava vivo. Assim,
+cientistas e arqueólogos usam a seguinte fórmula para
+saber a idade de um fóssil encontrado: Q t = Q0 ∙ 2
+−
+t
+5730
+em que t é o tempo, medido em ano, Q t é a quantidade
+de carbono 14 medida no instante t e Q0
+é a quantidade
+de carbono 14 no ser vivo correspondente.
+Um grupo de arqueólogos, numa de suas expedições,
+encontrou 5 fósseis de espécies conhecidas e mediram
+a quantidade de carbono 14 neles existente. Na tabela
+temos esses valores juntamente com a quantidade de
+carbono 14 nas referidas espécies vivas.
+Fóssil Q0
+Q(t)
+1 128 32
+2 256 8
+3 512 64
+4 1 024 512
+5 2 048 128
+O fóssil mais antigo encontrado nessa expedição foi
+A 1.
+B 2.
+C 3.
+D 4.
+E 5.
+Questão 151
+Uma das Sete Maravilhas do Mundo Moderno é o
+Templo de Kukulkán, localizado na cidade de Chichén
+Itzá, no México. Geometricamente, esse templo pode
+ser representado por um tronco reto de pirâmide de base
+quadrada.
+As quantidades de cada tipo de figura plana que formam
+esse tronco de pirâmide são
+A 2 quadrados e 4 retângulos.
+B 1 retângulo e 4 triângulos isósceles.
+C 2 quadrados e 4 trapézios isósceles.
+D 1 quadrado, 3 retângulos e 2 trapézios retângulos.
+E 2 retângulos, 2 quadrados e 2 trapézios retângulos.

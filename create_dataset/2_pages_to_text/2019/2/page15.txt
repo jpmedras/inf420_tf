@@ -1,0 +1,95 @@
+Questão 129
+Um dos parâmetros de controle de qualidade de
+polpas de frutas destinadas ao consumo como bebida é
+a acidez total expressa em ácido cítrico, que corresponde
+à massa dessa substância em 100 gramas de polpa
+de fruta. O ácido cítrico é uma molécula orgânica que
+apresenta três hidrogênios ionizáveis (ácido triprótico)
+e massa molar 192 g mol−1. O quadro indica o valor
+mínimo desse parâmetro de qualidade para polpas
+comerciais de algumas frutas.
+Polpa de fruta
+Valor mínimo da acidez total
+expressa em ácido cítrico
+(g/100 g)
+Acerola 0,8
+Caju 0,3
+Cupuaçu 1,5
+Graviola 0,6
+Maracujá 2,5
+A acidez total expressa em ácido cítrico de uma
+amostra comercial de polpa de fruta foi determinada.
+No procedimento, adicionou-se água destilada a 2,2 g da
+amostra e, após a solubilização do ácido cítrico, o sólido
+remanescente foi filtrado. A solução obtida foi titulada
+com solução de hidróxido de sódio 0,01 mol L−1, em que
+se consumiram 24 mL da solução básica (titulante).
+BRASIL. Ministério da Agricultura e do Abastecimento. Instrução
+normativa n. 1, de 7 de janeiro de 2000. Disponível em:
+www.agricultura.gov.br. Acesso em: 9 maio 2019 (adaptado).
+Entre as listadas, a amostra analisada pode ser de qual
+polpa de fruta?
+A Apenas caju.
+B Apenas maracujá.
+C Caju ou graviola.
+D Acerola ou cupuaçu.
+E Cupuaçu ou graviola.
+Questão 130
+Uma cozinheira colocou sal a mais no feijão que
+estava cozinhando. Para solucionar o problema, ela
+acrescentou batatas cruas e sem tempero dentro da
+panela. Quando terminou de cozinhá-lo, as batatas
+estavam salgadas, porque absorveram parte do caldo
+com excesso de sal. Finalmente, ela adicionou água
+para completar o caldo do feijão.
+O sal foi absorvido pelas batatas por
+A osmose, por envolver apenas o transporte
+do solvente.
+B fagocitose, porque o sal transportado é uma
+substância sólida.
+C exocitose, uma vez que o sal foi transportado da
+água para a batata.
+D pinocitose, porque o sal estava diluído na água
+quando foi transportado.
+E difusão, porque o transporte ocorreu a favor do
+gradiente de concentração.
+Questão 131
+A agricultura de precisão reúne técnicas agrícolas
+que consideram particularidades locais do solo ou lavoura
+a fim de otimizar o uso de recursos. Uma das formas
+de adquirir informações sobre essas particularidades
+é a fotografia aérea de baixa altitude realizada por um
+veículo aéreo não tripulado (vant). Na fase de aquisição
+é importante determinar o nível de sobreposição entre
+as fotografias. A figura ilustra como uma sequência de
+imagens é coletada por um vant e como são formadas
+as sobreposições frontais.
+20% de
+sobreposição
+frontal
+Vant com câmera fotográfica
+1
+1 2 3
+2 3
+∆S
+Solo
+H
+Imagens
+coletadas
+1, 2 e 3
+45° 45°
+O operador do vant recebe uma encomenda na
+qual as imagens devem ter uma sobreposição frontal de
+20% em um terreno plano. Para realizar a aquisição das
+imagens, seleciona uma altitude H fixa de voo de 1 000 m,
+a uma velocidade constante de 50 m s−1. A abertura da
+câmera fotográfica do vant é de 90°. Considere tg(45°) = 1.
+Natural Resources Canada. Concepts of Aerial Photography.
+Disponível em: www.nrcan.gc.ca. Acesso em: 26 abr. 2019 (adaptado).
+Com que intervalo de tempo o operador deve adquirir
+duas imagens consecutivas?
+A 40 segundos.
+B 32 segundos.
+C 28 segundos.
+D 16 segundos.
+E 8 segundos.

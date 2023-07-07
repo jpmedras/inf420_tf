@@ -1,0 +1,61 @@
+Questão 107
+Na piscicultura, costumam-se usar larvas de
+Artemia (crustáceo) para alimentar larvas de peixes.
+Ovos de Artemia são colocados em garrafas com água
+salgada e, sob condições ótimas de temperatura, luz e
+oxigênio, eles eclodem, liberando suas larvas, também
+conhecidas como náuplios. Para recolher os náuplios,
+coloca-se uma lâmpada branca fluorescente na boca da
+garrafa e estes começam a subir em direção ao gargalo.
+Esse comportamento das artêmias é chamado de
+A geotropismo positivo.
+B fototropismo positivo.
+C hidrotropismo negativo.
+D termotropismo negativo.
+E quimiotropismo negativo.
+Questão 108
+Por terem camada de valência completa,
+alta energia de ionização e afinidade eletrônica
+praticamente nula, considerou-se por muito tempo que
+os gases nobres não formariam compostos químicos.
+Porém, em 1962, foi realizada com sucesso a reação
+entre o xenônio (camada de valência 5s25p6) e o
+hexafluoreto de platina e, desde então, mais compostos
+novos de gases nobres vêm sendo sintetizados.
+Tais compostos demonstram que não se pode aceitar
+acriticamente a regra do octeto, na qual se considera
+que, numa ligação química, os átomos tendem a adquirir
+estabilidade assumindo a configuração eletrônica de
+gás nobre. Dentre os compostos conhecidos, um dos
+mais estáveis é o difluoreto de xenônio, no qual dois
+átomos do halogênio flúor (camada de valência 2s22p5)
+se ligam covalentemente ao átomo de gás nobre para
+ficarem com oito elétrons de valência.
+Ao se escrever a fórmula de Lewis do composto de
+xenônio citado, quantos elétrons na camada de valência
+haverá no átomo do gás nobre?
+A 6
+B 8
+C 10
+D 12
+E 14
+Questão 109
+Na madrugada de 11 de março de 1978, partes de
+um foguete soviético reentraram na atmosfera acima da
+cidade do Rio de Janeiro e caíram no Oceano Atlântico.
+Foi um belo espetáculo, os inúmeros fragmentos
+entrando em ignição devido ao atrito com a atmosfera
+brilharam intensamente, enquanto “cortavam o céu”.
+Mas se a reentrada tivesse acontecido alguns minutos
+depois, teríamos uma tragédia, pois a queda seria na
+área urbana do Rio de Janeiro e não no oceano.
+LAS CASAS, R. Lixo espacial. Observatório Astronômico Frei Rosário,
+ICEx, UFMG. Disponível em: www.observatorio.ufmg.br.
+Acesso em: 27 set. 2011 (adaptado).
+De acordo com os fatos relatados, a velocidade angular
+do foguete em relação à Terra no ponto de reentrada era
+A igual à da Terra e no mesmo sentido.
+B superior à da Terra e no mesmo sentido.
+C inferior à da Terra e no sentido oposto.
+D igual à da Terra e no sentido oposto.
+E superior à da Terra e no sentido oposto.

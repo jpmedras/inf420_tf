@@ -1,0 +1,30 @@
+Um atleta iniciou seu treinamento visando as competições de fim de ano. Seu treinamento consiste em cinco tipos
+diferentes de treinos: treino T1
+, treino T2
+, treino T3
+, treino T4
+e treino T5
+.Asequência dos treinamentos deve seguir esta ordem:
+A letra R significa repouso. Após completar a sequência de treinamentos, o atleta começa novamente a sequência a
+partir do treino T1
+e segue a ordem descrita.Após 24 semanas completas de treinamento, se dará o início das competições.
+A sequência de treinamentos que o atleta realizará na 24ª semana de treinos é
+A T3
+R T4
+R R T5
+R.
+B R T3
+R T4
+R R T5
+.
+C R T4
+R R T5
+R T1
+.
+D R R T5
+R T1
+R R.
+E R T5
+R T1
+R R T2
+.

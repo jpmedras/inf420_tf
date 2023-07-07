@@ -1,0 +1,25 @@
+Uma instituição de ensino superior ofereceu vagas
+em um processo seletivo de acesso a seus cursos.
+Finalizadas as inscrições, foi divulgada a relação do
+número de candidatos por vaga em cada um dos cursos
+oferecidos. Esses dados são apresentados no quadro.
+Curso
+Número
+de vagas
+oferecidas
+Número
+de candidatos
+por vaga
+Administração 30 6
+Ciências Contábeis 40 6
+Engenharia Elétrica 50 7
+História 30 8
+Letras 25 4
+Pedagogia 25 5
+Qual foi o número total de candidatos inscritos nesse
+processo seletivo?
+A 200
+B 400
+C 1 200
+D 1 235
+E 7 200

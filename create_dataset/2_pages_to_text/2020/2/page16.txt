@@ -1,0 +1,70 @@
+MATEMÁTICA E SUAS TECNOLOGIAS
+Questões de 136 a 180
+Questão 136
+A fabricação da Bandeira Nacional deve obedecer ao
+descrito na Lei n. 5.700, de 1º de setembro de 1971, que
+trata dos Símbolos Nacionais. No artigo que se refere às
+dimensões da Bandeira, observa-se:
+“Para cálculos das dimensões, será tomada por base
+a largura, dividindo-a em 14 (quatorze) partes iguais,
+sendo que cada uma das partes será considerada uma
+medida ou módulo (M). Os demais requisitos dimensionais
+seguem o critério abaixo:
+I. Comprimento será de vinte módulos (20 M);
+II. A distância dos vértices do losango amarelo ao
+quadro externo será de um módulo e sete décimos
+(1,7 M);
+III. O raio do círculo azul no meio do losango
+amarelo será de três módulos e meio (3,5 M).”
+BRASIL. Lei n. 5.700, de 1º de setembro de 1971.Disponível em: www.planalto.gov.br.
+Acesso em: 15 set. 2015.
+A figura indica as cores da bandeira do Brasil e
+localiza o quadro externo a que se refere a Lei n. 5.700.
+Comprimento do quadro externo
+Largura
+do
+quadro
+externo
+Um torcedor, preparando-se para a Copa do Mundo
+e dispondo de cortes de tecidos verde (180 cm x 150 cm)
+e amarelo (o quanto baste), deseja confeccionar a maior
+Bandeira Nacional possível a partir das medidas do tecido
+verde.
+Qual a medida, em centímetro, do lado do menor
+quadrado de tecido azul que deverá ser comprado para
+confecção do círculo da bandeira desejada?
+A 27
+B 32
+C 53
+D 63
+E 90
+Questão 137
+Uma empresa de ônibus utiliza um sistema de
+vendas de passagens que fornece a imagem de todos
+os assentos do ônibus, diferenciando os assentos já
+vendidos, por uma cor mais escura, dos assentos ainda
+disponíveis. A empresa monitora, permanentemente,
+o número de assentos já vendidos e compara-o com
+o número total de assentos do ônibus para avaliar a
+necessidade de alocação de veículos extras.
+Na imagem tem-se a informação dos assentos já
+vendidos e dos ainda disponíveis em um determinado
+instante.
+A razão entre o número de assentos já vendidos e o total
+de assentos desse ônibus, no instante considerado na
+imagem, é
+A
+16
+42
+B
+16
+26
+C
+26
+42
+D
+42
+26
+E
+42
+16

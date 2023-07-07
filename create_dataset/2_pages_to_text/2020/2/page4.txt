@@ -1,0 +1,90 @@
+Questão 95
+A fragmentação dos hábitats é caracterizada pela
+formação de ilhas da paisagem original, circundadas
+por áreas transformadas. Esse tipo de interferência no
+ambiente ameaça a biodiversidade. Imagine que uma
+população de onças foi isolada em uma mata pequena.
+Elas se extinguiriam mesmo sem terem sido abatidas.
+Diversos componentes da ilha de hábitat, como o
+tamanho, a heterogeneidade, o seu entorno, a sua
+conectividade e o efeito de borda são determinantes para
+a persistência ou não das espécies originais.
+Uma medida que auxilia na conservação da biodiversidade
+nas ilhas mencionadas no texto compreende a
+A formação de micro-hábitats.
+B ampliação do efeito de borda.
+C construção de corredores ecológicos.
+D promoção da sucessão ecológica.
+E introdução de novas espécies de animais e vegetais.
+Questão 96
+A sacarase (ou invertase) é uma enzima que atua no
+intestino humano hidrolisando o dissacarídeo sacarose
+nos monossacarídeos glicose e frutose. Em um estudo
+cinético da reação de hidrólise da sacarose (C12
+H22
+O11
+),
+foram dissolvidos 171 g de sacarose em 500 mL de
+água. Observou-se que, a cada 100 minutos de reação,
+a concentração de sacarose foi reduzida à metade,
+qualquer que fosse o momento escolhido como tempo
+inicial. As massas molares dos elementos H, C e O são
+iguais a 1, 12 e 16 g mol−1
+, respectivamente.
+Qual é a concentração de sacarose depois de 400 minutos
+do início da reação de hidrólise?
+A 2,50 × 10−3
+mol L−1
+B 6,25 × 10−2
+mol L−1
+C 1,25 × 10−1
+mol L−1
+D 2,50 × 10−1
+mol L−1
+E 4,27 × 10−1
+mol L−1
+Questão 97
+Grandes reservatórios de óleo leve de melhor
+qualidade e que produz petróleo mais fino foram
+descobertos no litoral brasileiro numa camada
+denominada pré-sal, formada há 150 milhões de anos.
+A utilização desse recurso energético acarreta para o
+ambiente um desequilíbrio no ciclo do
+A nitrogênio, devido à nitrificação ambiental
+transformando amônia em nitrito.
+B nitrogênio, devido ao aumento dos compostos
+nitrogenados no ambiente terrestre.
+C carbono, devido ao aumento dos carbonatos
+dissolvidos no ambiente marinho.
+D carbono, devido à liberação das cadeias carbônicas
+aprisionadas abaixo dos sedimentos.
+E fósforo, devido à liberação dos fosfatos acumulados
+no ambiente marinho.
+Questão 98
+Em uma usina geradora de energia elétrica, seja
+através de uma queda-d’água ou através de vapor
+sob pressão, as pás do gerador são postas a girar.
+O movimento relativo de um ímã em relação a um
+conjunto de bobinas produz um fluxo magnético variável
+através delas, gerando uma diferença de potencial em
+seus terminais. Durante o funcionamento de um dos
+geradores, o operador da usina percebeu que houve um
+aumento inesperado da diferença de potencial elétrico
+nos terminais das bobinas.
+Nessa situação, o aumento do módulo da diferença de
+potencial obtida nos terminais das bobinas resulta do
+aumento do(a)
+A intervalo de tempo em que as bobinas ficam imersas no
+campo magnético externo, por meio de uma diminuição
+de velocidade no eixo de rotação do gerador.
+B fluxo magnético através das bobinas, por meio de
+um aumento em sua área interna exposta ao campo
+magnético aplicado.
+C intensidade do campo magnético no qual as bobinas
+estão imersas, por meio de aplicação de campos
+magnéticos mais intensos.
+D rapidez com que o fluxo magnético varia através das
+bobinas, por meio de um aumento em sua velocidade
+angular.
+E resistência interna do condutor que constitui as bobinas,
+por meio de um aumento na espessura dos terminais.

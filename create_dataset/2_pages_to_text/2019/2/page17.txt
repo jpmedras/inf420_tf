@@ -1,0 +1,64 @@
+MATEMÁTICA E SUAS TECNOLOGIAS
+Questões de 136 a 180
+Questão 136
+Um grupo de países criou uma instituição responsável
+por organizar o Programa Internacional de Nivelamento
+de Estudos (PINE) com o objetivo de melhorar os índices
+mundiais de educação. Em sua sede foi construída
+uma escultura suspensa, com a logomarca oficial do
+programa, em três dimensões, que é formada por suas
+iniciais, conforme mostrada na figura.
+Essa escultura está suspensa por cabos de aço, de
+maneira que o espaçamento entre letras adjacentes é o
+mesmo, todas têm igual espessura e ficam dispostas em
+posição ortogonal ao solo, como ilustrado a seguir.
+Ao meio-dia, com o sol a pino, as letras que formam
+essa escultura projetam ortogonalmente suas sombras
+sobre o solo.
+A sombra projetada no solo é
+A
+B
+C
+D
+E
+Questão 137
+A Hydrangea macrophylla é uma planta com flor azul
+ou cor-de-rosa, dependendo do pH do solo no qual está
+plantada. Em solo ácido (ou seja, com pH < 7) a flor é
+azul, enquanto que em solo alcalino (ou seja, com pH > 7)
+a flor é rosa. Considere que a Hydrangea cor-de-rosa mais
+valorizada comercialmente numa determinada região seja
+aquela produzida em solo com pH inferior a 8. Sabe-se
+que pH = - log10x, em que x é a concentração de íon
+hidrogênio (H+).
+Para produzir a Hydrangea cor-de-rosa de maior
+valor comercial, deve-se preparar o solo de modo que
+x assuma
+A qualquer valor acima de 10−8.
+B qualquer valor positivo inferior a 10−7.
+C valores maiores que 7 e menores que 8.
+D valores maiores que 70 e menores que 80.
+E valores maiores que 10−8 e menores que 10−7.
+Questão 138
+Uma pessoa, que perdeu um objeto pessoal quando
+visitou uma cidade, pretende divulgar nos meios de
+comunicação informações a respeito da perda desse
+objeto e de seu contato para eventual devolução.
+No entanto, ela lembra que, de acordo com o Art. 1 234
+do Código Civil, poderá ter que pagar pelas despesas
+do transporte desse objeto até sua cidade e poderá ter
+que recompensar a pessoa que lhe restituir o objeto
+em, pelo menos, 5% do valor do objeto.
+Ela sabe que o custo com transporte será de
+um quinto do valor atual do objeto e, como ela tem
+muito interesse em reavê-lo, pretende ofertar o maior
+percentual possível de recompensa, desde que o
+gasto total com as despesas não ultrapasse o valor
+atual do objeto.
+Nessas condições, o percentual sobre o valor do objeto,
+dado como recompensa, que ela deverá ofertar é igual a
+A 20%
+B 25%
+C 40%
+D 60%
+E 80%

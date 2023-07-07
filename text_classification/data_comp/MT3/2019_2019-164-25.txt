@@ -1,0 +1,20 @@
+Um mestre de obras deseja fazer uma laje com
+espessura de 5 cm utilizando concreto usinado,
+conforme as dimensões do projeto dadas na figura.
+O concreto para fazer a laje será fornecido por uma
+usina que utiliza caminhões com capacidades máximas
+de 2 m3, 5 m3 e 10 m3 de concreto.
+8 m
+1 m
+3 m 2 m
+3 m
+5 m
+14 m
+Qual a menor quantidade de caminhões, utilizando suas
+capacidades máximas, que o mestre de obras deverá
+pedir à usina de concreto para fazer a laje?
+A Dez caminhões com capacidade máxima de 10 m3.
+B Cinco caminhões com capacidade máxima de 10 m3.
+C Um caminhão com capacidade máxima de 5 m3.
+D Dez caminhões com capacidade máxima de 2 m3.
+E Um caminhão com capacidade máxima de 2 m3.

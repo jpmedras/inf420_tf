@@ -1,0 +1,64 @@
+Questão 104
+Algumas toneladas de medicamentos para
+uso humano e veterinário são produzidas por ano.
+Os fármacos são desenvolvidos para serem estáveis,
+mantendo suas propriedades químicas de forma a
+atender a um propósito terapêutico. Após o consumo
+de fármacos, parte de sua dosagem é excretada
+de forma inalterada, persistindo no meio ambiente.
+Em todo o mundo, antibióticos, hormônios, anestésicos,
+anti-inflamatórios, entre outros, são detectados em
+concentrações preocupantes no esgoto doméstico,
+em águas superficiais e de subsolo. Dessa forma, a
+ocorrência de fármacos residuais no meio ambiente
+pode apresentar efeitos adversos em organismos
+aquáticos e terrestres.
+BILA, D. M.; DEZOTTI, M. Fármacos no meio ambiente.
+Química Nova, v. 26, n. 4, ago. 2003 (adaptado).
+Qual ação minimiza a permanência desses
+contaminantes nos recursos hídricos?
+A Utilização de esterco como fertilizante na agricultura.
+B Ampliação das redes de coleta de esgoto
+na zona urbana.
+C Descarte dos medicamentos fora do prazo de
+validade em lixões.
+D Desenvolvimento de novos processos nas estações
+de tratamento de efluentes.
+E Reúso dos lodos provenientes das estações de
+tratamento de esgoto na agricultura.
+Questão 105
+Um teste de laboratório permite identificar alguns
+cátions metálicos ao introduzir uma pequena quantidade
+do material de interesse em uma chama de bico de
+Bunsen para, em seguida, observar a cor da luz emitida.
+A cor observada é proveniente da emissão de radiação
+eletromagnética ao ocorrer a
+A mudança da fase sólida para a fase líquida do
+elemento metálico.
+B combustão dos cátions metálicos provocada pelas
+moléculas de oxigênio da atmosfera.
+C diminuição da energia cinética dos elétrons em uma
+mesma órbita na eletrosfera atômica.
+D transição eletrônica de um nível mais externo para
+outro mais interno na eletrosfera atômica.
+E promoção dos elétrons que se encontram no
+estado fundamental de energia para níveis
+mais energéticos.
+Questão 106
+Slackline é um esporte no qual o atleta deve se
+equilibrar e executar manobras estando sobre uma fita
+esticada. Para a prática do esporte, as duas extremidades
+da fita são fixadas de forma que ela fique a alguns
+centímetros do solo. Quando uma atleta de massa
+igual a 80 kg está exatamente no meio da fita, essa se
+desloca verticalmente, formando um ângulo de 10° com a
+horizontal, como esquematizado na figura. Sabe-se que a
+aceleração da gravidade é igual a 10 m s−2, cos(10°) = 0,98
+e sen(10°) = 0,17.
+Qual é a força que a fita exerce em cada uma das
+árvores por causa da presença da atleta?
+A 4,0 × 102 N
+B 4,1 × 102 N
+C 8,0 × 102 N
+D 2,4 × 103 N
+E 4,7 × 103 N

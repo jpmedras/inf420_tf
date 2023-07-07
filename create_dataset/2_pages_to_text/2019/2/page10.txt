@@ -1,0 +1,85 @@
+Questão 116
+A fluidez da membrana celular é caracterizada pela
+capacidade de movimento das moléculas componentes
+dessa estrutura. Os seres vivos mantêm essa
+propriedade de duas formas: controlando a temperatura
+e/ou alterando a composição lipídica da membrana.
+Neste último aspecto, o tamanho e o grau de insaturação
+das caudas hidrocarbônicas dos fosfolipídios, conforme
+representados na figura, influenciam significativamente
+a fluidez. Isso porque quanto maior for a magnitude das
+interações entre os fosfolipídios, menor será a fluidez da
+membrana.
+Representação simplificada da estrutura
+de um fosfolipídio
+Caudas
+hidrocarbônicas
+Cabeça
+polar
+Insaturação
+Assim, existem bicamadas lipídicas com diferentes
+composições de fosfolipídios, como as mostradas de I a V.
+Qual das bicamadas lipídicas apresentadas possui
+maior fluidez?
+A I
+B II
+C III
+D IV
+E V
+Questão 117
+Em uma aula experimental de calorimetria, uma
+professora queimou 2,5 g de castanha-de-caju crua para
+aquecer 350 g de água, em um recipiente apropriado
+para diminuir as perdas de calor. Com base na leitura da
+tabela nutricional a seguir e da medida da temperatura da
+água, após a queima total do combustível, ela concluiu
+que 50% da energia disponível foi aproveitada. O calor
+específico da água é 1 cal g−1 °C−1, e sua temperatura
+inicial era de 20 °C.
+Quantidade por porção de 10 g (2 castanhas)
+Valor energético 70 kcal
+Carboidratos 0,8 g
+Proteínas 3,5 g
+Gorduras totais 3,5 g
+Qual foi a temperatura da água, em grau Celsius,
+medida ao final do experimento?
+A 25
+B 27
+C 45
+D 50
+E 70
+Questão 118
+Grupos de pesquisa em todo o mundo vêm buscando
+soluções inovadoras, visando a produção de dispositivos
+para a geração de energia elétrica. Dentre eles,
+pode-se destacar as baterias de zinco-ar, que combinam
+o oxigênio atmosférico e o metal zinco em um eletrólito
+aquoso de caráter alcalino. O esquema de funcionamento
+da bateria zinco-ar está apresentado na figura.
+Membrana
+separadora
+Eletro
+do
+poros
+o
+Ele
+tro
+do
+de
+zin
+co
+Zn(OH)4
+2−
+OH−
+O2
+LI, Y.; DAI, H. Recent Advances in Zinc–Air Batteries.
+Chemical Society Reviews, v. 43, n. 15, 2014 (adaptado).
+No funcionamento da bateria, a espécie química formada
+no ânodo é
+A H2 (g).
+B O2 (g).
+C H2O (l).
+D OH− (aq).
+E Zn(OH)4
+2− (aq).
+I II III IV V

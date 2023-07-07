@@ -1,0 +1,24 @@
+O gráfico apresenta os totais de receitas e despesas
+de uma empresa, expressos em milhão de reais, no
+decorrer dos meses de um determinado ano. A empresa
+obtém lucro quando a diferença entre receita e despesa é
+positiva e tem prejuízo quando essa diferença é negativa.
+Jan. Fev. Mar. Abr. Maio Jun. Jul. Ago. Set. Out. Nov. Dez.
+9
+8
+7
+6
+5
+4
+3
+2
+1
+0
+Receitas Despesas
+Qual é a mediana, em milhão de reais, dos valores dos
+lucros apurados pela empresa nesse ano?
+A 1,5
+B 2,0
+C 2,9
+D 3,0
+E 5,5

@@ -1,0 +1,218 @@
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+QUESTÃO 160
+Um robô, que tem um ímã em sua base, se desloca
+sobre a superfície externa de um cubo metálico, ao longo de
+segmentos de reta cujas extremidades são pontos médios de
+arestas e centros de faces. Ele inicia seu deslocamento no
+ponto P, centro da face superior do cubo, segue para o centro
+da próxima face, converte à esquerda e segue para o centro da
+face seguinte, converte à direita e continua sua movimentação,
+sempre alternando entre conversões à esquerda e à direita
+quando alcança o centro de uma face. O robô só termina sua
+movimentação quando retorna ao ponto P. A figura apresenta
+os deslocamentos iniciais desse robô.
+P
+A projeção ortogonal do trajeto descrito por esse robô
+sobre o plano da base, após terminada sua movimentação,
+visualizada da posição em que se está enxergando esse
+cubo, é
+A
+A
+B
+B
+C
+C
+D
+D
+E
+E
+QUESTÃO 161
+Uma empresa de engenharia projetou uma casa com
+a forma de um retângulo para um de seus clientes. Esse
+cliente solicitou a inclusão de uma varanda em forma
+de L. A figura apresenta a planta baixa desenhada pela
+empresa, já com a varanda incluída, cujas medidas,
+indicadas em centímetro, representam os valores das
+dimensões da varanda na escala de 1 : 50.
+16 cm
+ESCALA 1 : 50
+SALA
+QUARTO
+SUÍTE
+BANHO
+SOCIAL
+BANHO
+SUÍTE
+COZINHA
+VARANDA
+QUARTO
+4 cm
+18,4 cm
+5 cm
+A medida real da área da varanda, em metro quadrado, é
+A
+A 33,40.
+B
+B 66,80.
+C
+C 89,24.
+D
+D 133,60.
+E
+E 534,40.
+QUESTÃO 162
+Uma loja de roupas fixou uma meta de vendas de
+77 000 reais para um determinado mês de 30 dias.
+O gráfico mostra o volume de vendas dessa loja, em real,
+nos dez primeiros dias do mês e entre o dia dez e o dia
+vinte desse mês, nos seus dois únicos setores (infantil e
+adulto). Suponha que a variação no volume de vendas,
+para o período registrado, tenha se dado de forma linear,
+como mostrado no gráfico, e que essa tendência se
+mantenha a mesma para os próximos dez dias.
+18 000
+8 000
+10 30
+7 000
+15 000
+Adulto
+Dias
+Infantil
+20
+Ao final do trigésimo dia, quanto faltará no volume de vendas,
+em real, para que a meta fixada para o mês seja alcançada?
+A
+A 5 000
+B
+B 7 000
+C
+C 11 000
+D
+D 18 000
+E
+E 29 000

@@ -1,0 +1,230 @@
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+QUESTÃO 96
+O quadro mostra valores de corrente elétrica e seus
+efeitos sobre o corpo humano.
+Corrente elétrica Dano físico
+Até 10 mA Dor e contração muscular
+De 10 mA até 20 mA
+Aumento das contrações
+musculares
+De 20 mA até 100 mA Parada respiratória
+De 100 mA até 3 A Fibrilação ventricular
+Acima de 3 A Parada cardíaca e queimaduras
+A corrente elétrica que percorrerá o corpo de um
+indivíduo depende da tensão aplicada e da resistência
+elétrica média do corpo humano. Esse último fator está
+intimamente relacionado com a umidade da pele, que
+seca apresenta resistência elétrica da ordem de 500 kΩ,
+mas, se molhada, pode chegar a apenas 1 kΩ.
+Apesar de incomum, é possível sofrer um acidente
+utilizando baterias de 12 V. Considere que um indivíduo
+com a pele molhada sofreu uma parada respiratória
+ao tocar simultaneamente nos pontos A e B de uma
+associação de duas dessas baterias.
+DURAN, J. E. R. Biofísica: fundamentos e aplicações.
+São Paulo: Pearson Prentice Hall, 2003 (adaptado).
+Qual associação de baterias foi responsável pelo acidente?
+A -
++
+A B
+-
++
+B -
++
+A B
+- +
+C
+A B
+- + - +
+D +
+A B
+-
+- +
+E A
+B
+-
++
+- +
+QUESTÃO 97
+O urânio é empregado como fonte de energia em
+reatores nucleares. Para tanto, o seu mineral deve
+ser refinado, convertido a hexafluoreto de urânio e
+posteriormente enriquecido, para aumentar de 0,7% a 3%
+a abundância de um isótopo específico — o urânio-235.
+Uma das formas de enriquecimento utiliza a pequena
+diferença de massa entre os hexafluoretos de urânio-235 e
+de urânio-238 para separá-los por efusão, precedida pela
+vaporização. Esses vapores devem efundir repetidamente
+milhares de vezes através de barreiras porosas formadas por
+telas com grande número de pequenos orifícios. No entanto,
+devido à complexidade e à grande quantidade de energia
+envolvida, cientistas e engenheiros continuam a pesquisar
+procedimentos alternativos de enriquecimento.
+ATKINS, P.; JONES, L. Princípios de química: questionando a vida moderna e
+o meio ambiente. Porto Alegre: Bookman, 2006 (adaptado).
+Considerando a diferença de massa mencionada entre os
+dois isótopos, que tipo de procedimento alternativo ao da
+efusão pode ser empregado para tal finalidade?
+A
+A Peneiração.
+B
+B Centrifugação.
+C
+C Extração por solvente.
+D
+D Destilação fracionada.
+E
+E Separação magnética.
+QUESTÃO 98
+A Agência Nacional de Vigilância Sanitária (Anvisa)
+aprovou um produto de terapia gênica no país, indicado
+para o tratamento da distrofia hereditária da retina. O
+procedimento é recomendado para crianças acima de
+12 meses e adultos com perda de visão causada pela
+mutação do gene humano RPE65. O produto, elaborado
+por engenharia genética, é composto por um vírus, no qual
+foi inserida uma cópia do gene normal humano RPE65
+para corrigir o funcionamento das células da retina.
+ANVISA. Disponível em: www.gov.br/anvisa. Acesso em: 4 dez. 2021 (adaptado).
+O sucesso dessa terapia advém do fato de que o produto
+favorecerá a
+A
+A correção do código genético para a tradução da
+proteína.
+B
+B alteração do RNA ribossômico ligado à síntese da
+proteína.
+C
+C produção de mutações benéficas para a correção do
+problema.
+D
+D liberação imediata da proteína normal na região
+ocular humana.
+E
+E expressão do gene responsável pela produção da
+enzima normal.

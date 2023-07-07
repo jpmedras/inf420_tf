@@ -1,0 +1,113 @@
+QUESTÃO 157
+O funcionário de uma loja tem seu salário mensal formado por uma parcela fixa de 675 reais mais uma comissão
+que depende da quantidade de peças vendidas por ele no mês. O cálculo do valor dessa comissão é feito de acordo
+com estes critérios:
+• até a quinquagésima peça vendida, paga-se 5 reais por peça;
+• a partir da quinquagésima primeira peça vendida, o valor pago é de 7 reais por peça.
+Represente por q a quantidade de peças vendidas no mês por esse funcionário, e por S(q) o seu salário mensal,
+em real, nesse mês.
+A expressão algébrica que descreve S(q) em função de q é
+A
+A S(q) = 675 + 12q
+B
+B S(q) = 325 + 12q
+C
+C S(q) = 675 + 7q
+D
+D S q
+q q
+q q
+( )
+,
+,
+
+
+ 
+625 5 50
+925 7 50
+se
+se
+
+
+
+
+E
+E S q
+q q
+q q
+( )
+,
+,
+
+
+ 
+625 5 50
+575 7 50
+se
+se
+
+
+
+
+QUESTÃO 158
+Ao analisar os dados de uma epidemia em uma cidade, peritos obtiveram um modelo que avalia a quantidade de
+pessoas infectadas a cada mês, ao longo de um ano. O modelo é dado por p(t) = −t 2
++ 10t + 24, sendo t um número
+natural, variando de 1 a 12, que representa os meses do ano, e p(t) a quantidade de pessoas infectadas no mês t do
+ano. Para tentar diminuir o número de infectados no próximo ano, a Secretaria Municipal de Saúde decidiu intensificar
+a propaganda oficial sobre os cuidados com a epidemia. Foram apresentadas cinco propostas (I, II, III, IV e V),
+com diferentes períodos de intensificação das propagandas:
+• I: 1 ≤ t ≤ 2;
+• II: 3 ≤ t ≤ 4;
+• III: 5 ≤ t ≤ 6;
+• IV: 7 ≤ t ≤ 9;
+• V: 10 ≤ t ≤ 12.
+A sugestão dos peritos é que seja escolhida a proposta cujo período de intensificação da propaganda englobe o
+mês em que, segundo o modelo, há a maior quantidade de infectados. A sugestão foi aceita.
+A proposta escolhida foi a
+A
+A I.
+B
+B II.
+C
+C III.
+D
+D IV.
+E
+E V.
+QUESTÃO 159
+Um atleta iniciou seu treinamento visando as competições de fim de ano. Seu treinamento consiste em cinco tipos
+diferentes de treinos: treino T1
+, treino T2
+, treino T3
+, treino T4
+e treino T5
+.Asequência dos treinamentos deve seguir esta ordem:
+A letra R significa repouso. Após completar a sequência de treinamentos, o atleta começa novamente a sequência a
+partir do treino T1
+e segue a ordem descrita.Após 24 semanas completas de treinamento, se dará o início das competições.
+A sequência de treinamentos que o atleta realizará na 24ª semana de treinos é
+A
+A T3
+R T4
+R R T5
+R.
+B
+B R T3
+R T4
+R R T5
+.
+C
+C R T4
+R R T5
+R T1
+.
+D
+D R R T5
+R T1
+R R.
+E
+E R T5
+R T1
+R R T2
+.

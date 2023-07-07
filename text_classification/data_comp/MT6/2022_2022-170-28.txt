@@ -1,0 +1,42 @@
+No período de 2005 a 2013, o valor de venda dos
+imóveis em uma cidade apresentou alta, o que resultou
+no aumento dos aluguéis. Os gráficos apresentam a
+evolução desses valores, para um mesmo imóvel, no
+mercado imobiliário dessa cidade.
+630
+960
+1 350
+1 800
+3 240
+Valor
+mensal
+do
+aluguel
+(R$)
+2005 2007 2009 2011 2013
+Ano
+90
+120
+270
+450
+540
+Valor
+de
+mercado
+do
+imóvel
+(milhar
+de
+R$)
+2005 2007 2009 2011 2013
+Ano
+A rentabilidade do aluguel de um imóvel é calculada
+pela razão entre o valor mensal de aluguel e o valor de
+mercado desse imóvel.
+Com base nos dados fornecidos, em que ano a
+rentabilidade do aluguel foi maior?
+A 2005
+B 2007
+C 2009
+D 2011
+E 2013

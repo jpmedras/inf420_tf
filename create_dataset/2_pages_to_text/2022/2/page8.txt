@@ -1,0 +1,112 @@
+QUESTÃO 107
+A biomassa celulósica pode ser utilizada para a produção de etanol de segunda geração. Entretanto, é necessário
+que os polissacarídeos sejam convertidos em mono e dissacarídeos, processo que pode ser conduzido em meio
+ácido, conforme mostra o esquema:
+O
+OH
+O
+H
+O
+O
+OH
+O
+OH
+OH
+O
+H
+O
+OH
+O
+H
+O
++
+O
+OH
+O
+OH
+OH
+O
+H
+H
+O
+H O
+OH
+OH
+O
+H
+O
+OH
+O
+H
+O
+OH
+H
+O
+H
+O
+OH
+O
+H O
++
+O
+OH
+H
+H
+O
+OH
+O
+H OH
+O
+OH
+H
++
++
+H
++
++
+OGEDA, T. L.; PETRI, D. F. S. [...] Química Nova, n. 7, 2010 (adaptado).
+Nessa conversão de polissacarídeos, a função do íon H+
+é
+A
+A dissolver os reagentes.
+B
+B deslocar o equilíbrio químico.
+C
+C aumentar a velocidade da reação.
+D
+D mudar a constante de equilíbrio da reação.
+E
+E formar ligações de hidrogênio com o polissacarídeo.
+QUESTÃO 108
+O ácido tartárico é o principal ácido do vinho e está diretamente relacionado com sua qualidade. Na avaliação de
+um vinho branco em produção, uma analista neutralizou uma alíquota de 25,0 mL do vinho com NaOH a 0,10 mol L−1
+,
+consumindo um volume igual a 8,0 mL dessa base. A reação para esse processo de titulação é representada pela
+equação química:
+O
+H
+O
+OH
+O OH
+OH
+O
+OH
+O OH
+ONa
+NaO
+ 2 NaOH  2 H2O
+Ácido tartárico
+(massa molar: 150 g mol
+1
+)
+A concentração de ácido tartárico no vinho analisado é mais próxima de:
+A
+A 1,8 g L−1
+B
+B 2,4 g L−1
+C
+C 3,6 g L−1
+D
+D 4,8 g L−1
+E
+E 9,6 g L−1

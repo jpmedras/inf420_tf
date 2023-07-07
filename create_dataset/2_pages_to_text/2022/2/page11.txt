@@ -1,0 +1,243 @@
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+QUESTÃO 116
+O manual de uma ducha elétrica informa que seus três
+níveis de aquecimento (morno, quente e superquente)
+apresentam as seguintes variações de temperatura da
+água em função de sua vazão:
+Vazão
+L
+min
+
+
+
+
+
+
+T C
+( )
+
+Morno Quente Superquente
+3 10 20 30
+6 5 10 15
+Utiliza-se um disjuntor para proteger o circuito dessa
+ducha contra sobrecargas elétricas em qualquer nível de
+aquecimento. Por padrão, o disjuntor é especificado pela
+corrente nominal igual ao múltiplo de 5 A imediatamente
+superior à corrente máxima do circuito. Considere que a
+ducha deve ser ligada em 220 V e que toda a energia é
+dissipada através da resistência do chuveiro e convertida
+em energia térmica transferida para a água, que apresenta
+calor específico de 4,2
+J
+g C
+
+e densidade de 1 000
+g
+L
+.
+O disjuntor adequado para a proteção dessa ducha é
+especificado por:
+A
+A 60 A
+B
+B 30 A
+C
+C 20 A
+D
+D 10 A
+E
+E 5 A
+QUESTÃO 117
+Um grupo de alunos realizou um experimento para
+observar algumas propriedades dos ácidos, adicionando
+um pedaço de mármore (CaCO3
+) a uma solução aquosa
+de ácido clorídrico (HCl), observando a liberação de um
+gás e o aumento da temperatura.
+Gás
+Ácido
+Mármore
+O gás obtido no experimento é o:
+A
+A H2
+B
+B O2
+C
+C CO2
+D
+D CO
+E
+E Cl2
+QUESTÃO 118
+Em 2002, foi publicado um artigo científico que
+relacionava alterações na produção de hormônios sexuais
+de sapos machos expostos à atrazina, um herbicida, com
+o desenvolvimento anômalo de seus caracteres sexuais
+primários e secundários. Entre os animais sujeitos à
+contaminação, observaram-se casos de hermafroditismo
+e desmasculinização da laringe. O estudo em questão
+comparou a concentração de um hormônio específico
+no sangue de machos expostos ao agrotóxico com a de
+outros machos e fêmeas que não o foram (controles).
+Os resultados podem ser vistos na figura.
+Machos
+controle
+Concentração
+do
+hormônio
+(ng
+mL
+−1
+)
+Machos
+expostos
+à atrazina
+Fêmeas
+controle
+6
+5
+4
+3
+2
+1
+0
+HAYES, T. B. et al. Hermaphroditic, Demasculinized Frogs After Exposure to
+the Herbicide Atrazine at Low Ecologically Relevant Doses. Proceedings of
+the National Academy of Sciences, n. 8, 2002 (adaptado).
+Com base nas informações do texto, qual é o hormônio
+cujas concentrações estão representadas na figura?
+A
+A Estrogênio.
+B
+B Feromônio.
+C
+C Testosterona.
+D
+D Somatotrofina.
+E
+E Hormônio folículo estimulante.

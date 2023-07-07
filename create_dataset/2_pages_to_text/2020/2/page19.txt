@@ -1,0 +1,78 @@
+Questão 145
+Um clube deseja produzir miniaturas em escala do
+troféu que ganhou no último campeonato. O troféu está
+representado na Figura 1 e é composto por uma base
+em formato de um paralelepípedo reto-retângulo de
+madeira, sobre a qual estão fixadas três hastes verticais
+que sustentam uma esfera de 30 cm de diâmetro, que fica
+centralizada sobre a base de madeira. O troféu tem 100 cm
+de altura, incluída sua base.
+8 cm
+50 cm
+50 cm
+Figura 1 Figura 2
+10 cm
+?
+A miniatura desse troféu deverá ser instalada
+no interior de uma caixa de vidro, em formato de
+paralelepípedo reto-retângulo, cujas dimensões internas
+de sua base estão indicadas na Figura 2, de modo que
+a base do troféu seja colada na base da caixa e distante
+das paredes laterais da caixa de vidro em pelo menos 1 cm.
+Deve ainda haver uma distância de exatos 2 cm entre o
+topo da esfera e a tampa dessa caixa de vidro. Nessas
+condições deseja-se fazer a maior miniatura possível.
+A medida da altura, em centímetro, dessa caixa de vidro
+deverá ser igual a
+A 12.
+B 14.
+C 16.
+D 18.
+E 20.
+Questão 146
+Uma casa de dois andares está sendo projetada.
+É necessário incluir no projeto a construção de uma
+escada para o acesso ao segundo andar. Para o cálculo
+das dimensões dos degraus utilizam-se as regras:
+|2h + b − 63,5| ≤ 1,5 e 16 ≤ h ≤ 19,
+nas quais h é a altura do degrau (denominada espelho)
+e b é a profundidade da pisada, como mostra a figura.
+Por conveniência, escolheu-se a altura do degrau como
+sendo h = 16. As unidades de h e b estão em centímetro.
+Nesse caso, o mais amplo intervalo numérico ao qual a
+profundidade da pisada (b) deve pertencer, para que as
+regras sejam satisfeitas é
+A 30 ≤ b
+B 30 ≤ b ≤ 31,5
+C 30 ≤ b ≤ 33
+D 31,5 ≤ b ≤ 33
+E b ≤ 33
+Questão 147
+Muitos modelos atuais de veículos possuem
+computador de bordo. Os computadores informam em
+uma tela diversas variações de grandezas associadas
+ao desempenho do carro, dentre elas o consumo médio
+de combustível. Um veículo, de um determinado modelo,
+pode vir munido de um dos dois tipos de computadores
+de bordo:
+• Tipo A: informa a quantidade X de litro de
+combustível gasto para percorrer 100 quilômetros;
+• Tipo B: informa a quantidade de quilômetro que
+o veículo é capaz de percorrer com um litro de
+combustível.
+Um veículo utiliza o computador do Tipo A, e ao final
+de uma viagem o condutor viu apresentada na tela a
+informação “X/100”.
+Caso o seu veículo utilizasse o computador do Tipo B, o
+valor informado na tela seria obtido pela operação
+A X ∙ 100
+B
+X
+100
+C
+100
+X
+D
+1
+X
+E 1 ∙ X

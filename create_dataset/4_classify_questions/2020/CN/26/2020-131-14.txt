@@ -1,0 +1,14 @@
+A Química Verde é um ramo da química que prega o desenvolvimento de processos eficientes, que transformem a maior
+parte do reagente em produto, de forma mais rápida e seletiva, que utilizem poucos reagentes, que produzam somente o
+produto desejado, evitando a formação de coprodutos, e que utilizem solventes não agressivos ao meio ambiente. Assim,
+as indústrias contornariam problemas relacionados à poluição ambiental e ao desperdício de água e energia.
+O perfil de um processo que segue todos os princípios desse ramo da química pode ser representado por:
+A A + B + C → D (a reação ocorre a altas pressões).
+B A + B → C + D (a reação é fortemente endotérmica).
+C A + 3B → C (a reação ocorre com uso de solvente orgânico).
+D 3A + 2B → 2C → 3D + 2E (a reação ocorrre sob pressão atmosférica).
+E A +
+1
+−
+2
+B → C (a reação ocorre com o uso de um catalisador contendo um metal não tóxico).

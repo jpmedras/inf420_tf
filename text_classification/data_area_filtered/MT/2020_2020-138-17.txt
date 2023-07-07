@@ -1,0 +1,11 @@
+A caixa-d’água de um edifício terá a forma de um
+paralelepípedo retângulo reto com volume igual a
+28 080 litros. Em uma maquete que representa o edifício,
+a caixa-d’água tem dimensões 2 cm × 3,51 cm × 4 cm.
+Dado: 1 dm³ = 1 L.
+A escala usada pelo arquiteto foi
+A 1 : 10
+B 1 : 100
+C 1 : 1 000
+D 1 : 10 000
+E 1 : 100 000

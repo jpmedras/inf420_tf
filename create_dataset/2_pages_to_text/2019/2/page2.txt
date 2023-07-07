@@ -1,0 +1,71 @@
+CIÊNCIAS DA NATUREZA
+E SUAS TECNOLOGIAS
+Questões de 91 a 135
+Questão 91
+Para realizar o desentupimento de tubulações de
+esgotos residenciais, é utilizada uma mistura sólida
+comercial que contém hidróxido de sódio (NaOH) e outra
+espécie química pulverizada. Quando é adicionada
+água a essa mistura, ocorre uma reação que libera gás
+hidrogênio e energia na forma de calor, aumentando a
+eficiência do processo de desentupimento. Considere os
+potenciais padrão de redução (E ) da água e de outras
+espécies em meio básico, expressos no quadro.
+Semirreação de redução E (V)
+2 H2O + 2 e− → H2 + 2 OH− −0,83
+Co(OH)2 + 2 e− → Co + 2 OH− −0,73
+Cu(OH)2 + 2 e− → Cu + 2 OH− −0,22
+PbO + H2O + 2 e− → Pb + 2 OH− −0,58
+Al(OH)4
+− + 3 e− → Al + 4 OH− −2,33
+Fe(OH)2 + 2 e− → Fe + 2 OH− −0,88
+Qual é a outra espécie que está presente na composição
+da mistura sólida comercial para aumentar sua eficiência?
+A Al
+B Co
+C Cu(OH)2
+D Fe(OH)2
+E Pb
+Questão 92
+As redes de alta tensão para transmissão de energia
+elétrica geram campo magnético variável o suficiente
+para induzir corrente elétrica no arame das cercas.
+Tanto os animais quanto os funcionários das
+propriedades rurais ou das concessionárias de energia
+devem ter muito cuidado ao se aproximarem de uma
+cerca quando esta estiver próxima a uma rede de alta
+tensão, pois, se tocarem no arame da cerca, poderão
+sofrer choque elétrico.
+Para minimizar este tipo de problema, deve-se:
+A Fazer o aterramento dos arames da cerca.
+B Acrescentar fusível de segurança na cerca.
+C Realizar o aterramento da rede de alta tensão.
+D Instalar fusível de segurança na rede de alta tensão.
+E Utilizar fios encapados com isolante na rede
+de alta tensão.
+Questão 93
+A esquistossomose (barriga-dʼágua) caracteriza-se
+pela inflamação do fígado e do baço causada pelo verme
+Schistosoma mansoni (esquistossomo). O contágio
+ocorre depois que larvas do verme são liberadas na
+água pelo caramujo do gênero Biomphalaria, seu
+hospedeiro intermediário, e penetram na pele humana.
+Após o diagnóstico, o tratamento tradicional utiliza
+medicamentos por via oral para matar o parasita dentro
+do corpo. Uma nova estratégia terapêutica baseia-se na
+utilização de uma vacina, feita a partir de uma proteína
+extraída do verme, que induz o organismo humano a
+produzir anticorpos para combater e prevenir a doença.
+Instituto Oswaldo Cruz/Fundação Oswaldo Cruz (IOC/Fiocruz). Fiocruz
+anuncia nova fase de vacina para esquistossomose. Disponível em:
+http://agencia.fiocruz.br. Acesso em: 3 maio 2019 (adaptado).
+Uma vantagem da vacina em relação ao tratamento
+tradicional é que ela poderá
+A impedir a penetração do parasita pela pele.
+B eliminar o caramujo para que não haja contágio.
+C impedir o acesso do esquistossomo especificamente
+para o fígado.
+D eliminar o esquistossomo antes que ocorra contato
+com o organismo.
+E eliminar o esquistossomo dentro do organismo antes
+da manifestação de sintomas.

@@ -1,0 +1,17 @@
+Uma casa de dois andares está sendo projetada.
+É necessário incluir no projeto a construção de uma
+escada para o acesso ao segundo andar. Para o cálculo
+das dimensões dos degraus utilizam-se as regras:
+|2h + b − 63,5| ≤ 1,5 e 16 ≤ h ≤ 19,
+nas quais h é a altura do degrau (denominada espelho)
+e b é a profundidade da pisada, como mostra a figura.
+Por conveniência, escolheu-se a altura do degrau como
+sendo h = 16. As unidades de h e b estão em centímetro.
+Nesse caso, o mais amplo intervalo numérico ao qual a
+profundidade da pisada (b) deve pertencer, para que as
+regras sejam satisfeitas é
+A 30 ≤ b
+B 30 ≤ b ≤ 31,5
+C 30 ≤ b ≤ 33
+D 31,5 ≤ b ≤ 33
+E b ≤ 33

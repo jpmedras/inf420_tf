@@ -1,0 +1,29 @@
+Uma população encontra-se em equilíbrio genético
+quanto ao sistema ABO, em que 25% dos indivíduos
+pertencem ao grupo O e 16%, ao grupo A homozigotos.
+Considerando que: p = frequência de IA
+; q = frequência
+de IB
+; e r = frequência de i, espera-se encontrar:
+Grupo Genótipos Frequências
+A IA
+IA
+e IA
+i p2
++ 2pr
+B IB
+IB
+e IB
+i q2
++ 2qr
+AB IA
+IB
+2pq
+O ii r2
+A porcentagem de doadores compatíveis para alguém do
+grupo B nessa população deve ser de
+A 11%.
+B 19%.
+C 26%.
+D 36%.
+E 60%.

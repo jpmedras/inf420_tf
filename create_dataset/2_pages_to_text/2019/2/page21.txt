@@ -1,0 +1,87 @@
+Questão 147
+Uma administração municipal encomendou a pintura
+de dez placas de sinalização para colocar em seu pátio
+de estacionamento.
+O profissional contratado para o serviço inicial
+pintará o fundo de dez placas e cobrará um valor de
+acordo com a área total dessas placas. O formato
+de cada placa é um círculo de diâmetro d = 40 cm,
+que tangencia lados de um retângulo, sendo que
+o comprimento total da placa é h = 60 cm, conforme
+ilustrado na figura. Use 3,14 como aproximação para π.
+Qual é a soma das medidas das áreas, em centímetros
+quadrados, das dez placas?
+A 16 628
+B 22 280
+C 28 560
+D 41 120
+E 66 240
+Questão 148
+O rótulo da embalagem de um cosmético informa
+que a dissolução de seu conteúdo, de acordo com suas
+especificações, rende 2,7 litros desse produto pronto
+para o uso. Uma pessoa será submetida a um tratamento
+estético em que deverá tomar um banho de imersão
+com esse produto numa banheira com capacidade de
+0,3 m3. Para evitar o transbordamento, essa banheira
+será preenchida em 80% de sua capacidade.
+Para esse banho, o número mínimo de embalagens
+desse cosmético é
+A 9.
+B 12.
+C 89.
+D 112.
+E 134.
+Questão 149
+O slogan “Se beber não dirija”, muito utilizado em
+campanhas publicitárias no Brasil, chama a atenção
+para o grave problema da ingestão de bebida alcoólica
+por motoristas e suas consequências para o trânsito.
+A gravidade desse problema pode ser percebida
+observando como o assunto é tratado pelo Código de
+Trânsito Brasileiro. Em 2013, a quantidade máxima
+de álcool permitida no sangue do condutor de um
+veículo, que já era pequena, foi reduzida, e o valor
+da multa para motoristas alcoolizados foi aumentado.
+Em consequência dessas mudanças, observou-se
+queda no número de acidentes registrados em uma
+suposta rodovia nos anos que se seguiram às mudanças
+implantadas em 2013, conforme dados no quadro.
+Ano 2013 2014 2015
+Número total
+de acidentes
+1 050 900 850
+Suponha que a tendência de redução no número de
+acidentes nessa rodovia para os anos subsequentes seja
+igual à redução absoluta observada de 2014 para 2015.
+Com base na situação apresentada, o número de
+acidentes esperados nessa rodovia em 2018 foi de
+A 150.
+B 450.
+C 550.
+D 700.
+E 800.
+Questão 150
+Uma pessoa se interessou em adquirir um produto
+anunciado em uma loja. Negociou com o gerente e
+conseguiu comprá-lo a uma taxa de juros compostos
+de 1% ao mês. O primeiro pagamento será um mês
+após a aquisição do produto, e no valor de R$ 202,00.
+O segundo pagamento será efetuado um mês após o
+primeiro, e terá o valor de R$ 204,02. Para concretizar a
+compra, o gerente emitirá uma nota fiscal com o valor do
+produto à vista negociado com o cliente, correspondendo
+ao financiamento aprovado.
+O valor à vista, em real, que deverá constar na nota
+fiscal é de
+A 398,02.
+B 400,00.
+C 401,94.
+D 404,00.
+E 406,02.
+
+d
+h
+E
+PROIBIDO
+ESTACIONAR

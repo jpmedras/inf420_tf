@@ -1,0 +1,64 @@
+Questão 116
+Um estudante tem uma fonte de tensão com corrente
+contínua que opera em tensão fixa de 12 V. Como
+precisa alimentar equipamentos que operam em tensões
+menores, ele emprega quatro resistores de 100 Ω para
+construir um divisor de tensão. Obtém-se este divisor
+associando os resistores, como exibido na figura. Os
+aparelhos podem ser ligados entre os pontos A, B, C, D e
+E, dependendo da tensão especificada.
+Fonte CC
+12 V
++ −
+100 Ω 100 Ω 100 Ω 100 Ω
+A B C D E
+Ele tem um equipamento que opera em 9,0 V com
+uma resistência interna de 10 kΩ.
+Entre quais pontos do divisor de tensão esse equipamento
+deve ser ligado para funcionar corretamente e qual será o
+valor da intensidade da corrente nele estabelecida?
+A Entre A e C; 30 mA.
+B Entre B e E; 30 mA.
+C Entre A e D; 1,2 mA.
+D Entre B e E; 0,9 mA.
+E Entre A e E; 0,9 mA.
+Questão 117
+Pesquisadores dos Estados Unidos desenvolveram
+uma nova técnica, que utiliza raios de luz infravermelha
+(invisíveis a olho nu) para destruir tumores. Primeiramente,
+o paciente recebe uma injeção com versões modificadas
+de anticorpos que têm a capacidade de “grudar” apenas
+nas células cancerosas. Sozinhos, eles não fazem nada
+contra o tumor. Entretanto, esses anticorpos estão ligados
+a uma molécula, denominada IR700, que funcionará como
+uma “microbomba”, que irá destruir o câncer. Em seguida, o
+paciente recebe raios infravermelhos. Esses raios penetram
+no corpo e chegam até a molécula IR700, que é ativada e
+libera uma substância que ataca a célula cancerosa.
+Disponível em: http://super.abril.com.br. Acesso em: 13 dez. 2012 (adaptado).
+Com base nas etapas de desenvolvimento, o nome
+apropriado para a técnica descrita é:
+A Radioterapia.
+B Cromoterapia.
+C Quimioterapia.
+D Fotoimunoterapia.
+E Terapia magnética.
+Questão 118
+Aranhas, escorpiões, carrapatos e ácaros são
+representantes da classe dos Aracnídeos. Esses animais
+são terrestres em sua grande maioria e ocupam os mais
+variados hábitats, tais como montanhas altas, pântanos,
+desertos e solos arenosos. Podem ter sido os primeiros
+representantes do filo Arthropoda a habitar a terra seca.
+A característica que justifica o sucesso adaptativo desse
+grupo na ocupação do ambiente terrestre é a presença de
+A quelíceras e pedipalpos que coordenam o movimento
+corporal.
+B excreção de ácido úrico que confere estabilidade ao
+pH corporal.
+C exoesqueleto constituído de quitina que auxilia no
+controle hídrico corporal.
+D circulação sanguínea aberta que impede a desidratação
+dos tecidos corporais.
+E sistemanervosoganglionarquepromoveacoordenação
+central do movimento corporal.

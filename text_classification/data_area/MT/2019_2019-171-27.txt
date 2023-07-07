@@ -1,0 +1,25 @@
+Uma empresa confecciona e comercializa um
+brinquedo formado por uma locomotiva, pintada na cor
+preta, mais 12 vagões de iguais formato e tamanho,
+numerados de 1 a 12. Dos 12 vagões, 4 são pintados
+na cor vermelha, 3 na cor azul, 3 na cor verde e 2 na cor
+amarela. O trem é montado utilizando-se uma locomotiva
+e 12 vagões, ordenados crescentemente segundo suas
+numerações, conforme ilustrado na figura.
+1 2 3 4 5 6 7 8 9 10 11 12
+De acordo com as possíveis variações nas colorações
+dos vagões, a quantidade de trens que podem ser
+montados, expressa por meio de combinações, é
+dada por
+A 12
+4
+12
+3
+12
+3
+12
+2
+B
+C
+D
+E

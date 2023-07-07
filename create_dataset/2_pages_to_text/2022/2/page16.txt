@@ -1,0 +1,220 @@
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+QUESTÃO 133
+O protozoário Trypanosoma cruzi, causador da
+doença de Chagas, pode ser a nova arma da medicina
+contra o câncer. Pesquisadores brasileiros conseguiram
+criar uma vacina contra a doença usando uma variação
+do protozoário incapaz de desencadear a patologia (não
+patogênico). Para isso, realizaram uma modificação
+genética criando um T. cruzi capaz de produzir também
+moléculas fabricadas pelas células tumorais. Quando
+o organismo inicia o combate ao protozoário, entra em
+contato também com a molécula tumoral, que passa a ser
+vista também pelo sistema imune como um indicador de
+células do protozoário. Depois de induzidas as defesas,
+estas passam a destruir todas as células com a molécula
+tumoral, como se lutassem apenas contra o protozoário.
+Disponível em: www.estadao.com.br. Acesso em: 1 mar. 2012 (adaptado).
+Qual o mecanismo utilizado no experimento para enganar
+as células de defesa, fazendo com que ataquem o tumor?
+A
+A Autoimunidade.
+B
+B Hipersensibilidade.
+C
+C Ativação da resposta inata.
+D
+D Apresentação de antígeno específico.
+E
+E Desencadeamento de processo anti-inflamatório.
+QUESTÃO 134
+O sinal sonoro oriundo da queda de um grande bloco
+de gelo de uma geleira é detectado por dois dispositivos
+situados em um barco, sendo que o detector A está
+imerso em água e o B, na proa da embarcação. Sabe-se
+que a velocidade do som na água é de 1 540
+m
+s
+e no ar
+é de 340
+m
+s
+.
+A
+B
+L
+Os gráficos indicam, em tempo real, o sinal sonoro
+detectado pelos dois dispositivos, os quais foram ligados
+simultaneamente em um instante anterior à queda do
+bloco de gelo. Ao comparar pontos correspondentes
+desse sinal em cada dispositivo, é possível obter
+informações sobre a onda sonora.
+Tempo (s) Tempo (s)
+208 220 232 244 208 220 232 244
+A
+Sinal
+Sinal
+B
+A distância L, em metro, entre o barco e a geleira é mais
+próxima de
+A
+A 339 000.
+B
+B 78 900.
+C
+C 14 400.
+D
+D 5 240.
+E
+E 100.
+QUESTÃO 135
+Em 2002, um mecânico da cidade mineira de
+Uberaba (MG) teve uma ideia para economizar o
+consumo de energia elétrica e iluminar a própria casa
+num dia de sol. Para isso, ele utilizou garrafas plásticas
+PET com água e cloro, conforme ilustram as figuras.
+Cada garrafa foi fixada ao telhado de sua casa em um
+buraco com diâmetro igual ao da garrafa, muito maior
+que o comprimento de onda da luz. Nos últimos dois
+anos, sua ideia já alcançou diversas partes do mundo
+e deve atingir a marca de 1 milhão de casas utilizando
+a “luz engarrafada”.
+ZOBEL, G. Brasileiro inventor de “luz engarrafada” tem ideia espalhada pelo mundo.
+Disponível em: www.bbc.com. Acesso em: 23 jun. 2022 (adaptado).
+Que fenômeno óptico explica o funcionamento da “luz
+engarrafada”?
+A
+A Difração.
+B
+B Absorção.
+C
+C Polarização.
+D
+D Reflexão.
+E
+E Refração.

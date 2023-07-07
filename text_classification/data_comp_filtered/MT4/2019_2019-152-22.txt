@@ -1,0 +1,20 @@
+Para contratar três máquinas que farão o reparo de
+vias rurais de um município, a prefeitura elaborou um
+edital que, entre outras cláusulas, previa:
+• Cada empresa interessada só pode cadastrar uma
+única máquina para concorrer ao edital;
+• O total de recursos destinados para contratar o
+conjunto das três máquinas é de R$ 31 000,00;
+• O valor a ser pago a cada empresa será
+inversamente proporcional à idade de uso
+da máquina cadastrada pela empresa para o
+presente edital.
+As três empresas vencedoras do edital cadastraram
+máquinas com 2, 3 e 5 anos de idade de uso.
+Quanto receberá a empresa que cadastrou a máquina
+com maior idade de uso?
+A R$ 3 100,00
+B R$ 6 000,00
+C R$ 6 200,00
+D R$ 15 000,00
+E R$ 15 500,00

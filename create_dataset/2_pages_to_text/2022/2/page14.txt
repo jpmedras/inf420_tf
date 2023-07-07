@@ -1,0 +1,285 @@
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+ENEM
+2022
+QUESTÃO 126
+A água bruta coletada de mananciais apresenta
+alto índice de sólidos suspensos, o que a deixa com
+um aspecto turvo. Para se obter uma água límpida e
+potável, ela deve passar por um processo de purificação
+numa estação de tratamento de água. Nesse processo,
+as principais etapas são, nesta ordem: coagulação,
+decantação, filtração, desinfecção e fluoretação.
+Qual é a etapa de retirada de grande parte desses
+sólidos?
+A
+A Coagulação.
+B
+B Decantação.
+C
+C Filtração.
+D
+D Desinfecção.
+E
+E Fluoretação.
+QUESTÃO 127
+Os ursos, por não apresentarem uma hibernação
+verdadeira, acordam por causa da presença de
+termogenina, uma proteína mitocondrial que impede a
+chegada dos prótons até a ATP sintetase, gerando calor.
+Esse calor é importante para aquecer o organismo,
+permitindo seu despertar.
+SADAVA, D. et al. Vida: a ciência da biologia. Porto Alegre: Artmed, 2009 (adaptado).
+Em qual etapa do metabolismo energético celular a
+termogenina interfere?
+A
+A Glicólise.
+B
+B Fermentação lática.
+C
+C Ciclo do ácido cítrico.
+D
+D Oxidação do piruvato.
+E
+E Fosforilação oxidativa.
+QUESTÃO 128
+Afim de classificar as melhores rotas em um aplicativo
+de trânsito, um pesquisador propõe um modelo com
+base em circuitos elétricos. Nesse modelo, a corrente
+representa o número de carros que passam por um ponto
+da pista no intervalo de 1 s.Adiferença de potencial (d.d.p.)
+corresponde à quantidade de energia por carro necessária
+para o deslocamento de 1 m. De forma análoga à lei de
+Ohm, cada via é classificada pela sua resistência, sendo
+a de maior resistência a mais congestionada. O aplicativo
+mostra as rotas em ordem crescente, ou seja, da rota de
+menor para a de maior resistência.
+Como teste para o sistema, são utilizadas três
+possíveis vias para uma viagem de A até B, com os
+valores de d.d.p. e corrente conforme a tabela.
+Rota d.d.p.
+J
+carro m
+
+
+
+
+
+
+ Corrente
+carro
+s
+
+
+
+
+
+
+1 510 4
+2 608 4
+3 575 3
+Nesse teste, a ordenação das rotas indicadas pelo
+aplicativo será:
+A
+A 1, 2, 3.
+B
+B 1, 3, 2.
+C
+C 2, 1, 3.
+D
+D 3, 1, 2.
+E
+E 3, 2, 1.
+QUESTÃO 129
+O esquema representa o ciclo do nitrogênio:
+Plantas
+Assimilação
+Bactérias
+nitrificantes
+Nitrificação
+Amonificação
+Bactérias fixadoras
+de N2
+no solo Bactérias nitrificantes
+Bactérias fixa-
+doras de N2
+nos
+nódulos de raízes
+de leguminosas
+Bactérias
+desnitri-
+ficantes
+(fungos e bactérias
+aeróbicas e anaeróbicas)
+Decompositores
+Amônia e Amônio
+(NH3
+) (NH4
++
+) Nitritos (NO2
+−
+)
+Nitratos (NO3
+−
+)
+A chuva ácida interfere no ciclo do nitrogênio,
+principalmente, por proporcionar uma diminuição do pH
+do solo e da atmosfera, alterando a concentração dos
+compostos presentes nesse ciclo.
+Disponível em: http://scienceprojectideasforkids.com. Acesso em: 6 ago. 2012 (adaptado).
+Em um solo de menor pH, será favorecida a formação de:
+A
+A N2
+B
+B NH3
+C
+C NH4
++
+D
+D NO2
+−
+E
+E NO3
+−
+QUESTÃO 130
+No processo de captação da luz pelo olho para a
+formação de imagens estão envolvidas duas estruturas
+celulares: os cones e os bastonetes. Os cones são sensíveis
+à energia dos fótons, e os bastonetes, à quantidade de
+fótons incidentes. A energia dos fótons que compõem
+os raios luminosos está associada à sua frequência, e a
+intensidade, ao número de fótons incidentes.
+Um animal que tem bastonetes mais sensíveis irá
+A
+A apresentar daltonismo.
+B
+B perceber cores fora do espectro do visível.
+C
+C enxergar bem em ambientes mal iluminados.
+D
+D necessitar de mais luminosidade para enxergar.
+E
+E fazer uma pequena distinção de cores em ambientes
+iluminados.

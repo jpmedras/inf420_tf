@@ -1,0 +1,31 @@
+O consumo de espumantes no Brasil tem
+aumentado nos últimos anos. Uma das etapas do
+seu processo de produção consiste no envasamento
+da bebida em garrafas semelhantes às da imagem.
+Nesse processo, a vazão do líquido no interior da
+garrafa é constante e cessa quando atinge o nível de
+envasamento.
+Nível de envasamento
+da garrafa
+Qual esboço de gráfico melhor representa a variação da
+altura do líquido em função do tempo, na garrafa indicada
+na imagem?
+A
+altura
+tempo
+0
+B
+altura
+tempo
+0
+C
+altura
+tempo
+0
+D
+altura
+tempo
+0
+E
+altura
+0 tempo
